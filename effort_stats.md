@@ -1,38 +1,57 @@
-|[@artikozel](https://github.com/artikozel)|item|link to translation|time (report)|
-|---|---|---|---|
-|-|Decred something|[linky link](linky link)]|100 hours|
-|-|-|-|-|
-|-|-|-|-|
-
-|@elian|item|link to translation|time (report)|
-|---|---|---|---|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
-
-
-|[@Guang168](https://github.com/Guang168)|item|link to translation|time (report)|
-|---|---|---|---|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
-
-
-|@DZ |item|link to translation|time (report)|
-|---|---|---|---|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
+original title|to language|translator|effort (report)
+-|-|-|-
+[Blockchain governance: how Decred iterates upon Bitcoin](https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e)|[Chinese](https://github.com/Guang168/DCR_CN_articles/blob/master/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin.md)|@Guang168|[3h+](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154505941244638HLgAi:decred.org)
+[Decred: Where did it all begin?](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)|[Spanish](https://medium.com/@decred_es/decred-d%C3%B3nde-comenz%C3%B3-todo-aaa49fed0091)|@elian|n/a
+-|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decred_wherediditallbegin.md)|@artikozel|2h
+[Decred Recruiting](https://blog.decred.org/2017/07/25/Decred-Recruiting/)|[Spanish](https://medium.com/@decred_es/c%C3%B3mo-ser-contratista-en-decred-d0f05386f799)|@elian|n/a
+[How to Get Hired as a Decred Contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10)|[Chinese]((https://www.weibo.com/ttarticle/p/show?id=2309404315589245067163)|@Guang168|n/a
+[Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredforkresistance.md)|@artikozel|need to consult notes
+-|[Russian](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea)|@DZ|n/a
 
 
 
-|[@MaiconJunge](https://github.com/MaiconJunge)|item|link to translation|time (report)|
-|---|---|---|---|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
+
+
 ---
 
-|Decred Journal issue|translator|link to translation|time|
-|---|---|---|---|
-|[November](https://xaur.github.io/decred-news/journal/201811.html)|
+[@artikozel](https://github.com/artikozel)|item|link to translation|time (report)
+---|---|---|---
+-|Decred something|[linky link](linky link)|100 hours
+-|-|-|-
+-|-|-|-
+
+@elian|item|link to translation|time (report)
+---|---|---|---
+-|-|-|-
+-|-|-|-
+-|-|-|-
+
+
+[@Guang168](https://github.com/Guang168)|item|link to translation|time (report)
+---|---|---|---
+-|-|-|-
+-|-|-|-
+-|-|-|-
+
+
+@DZ |item|link to translation|time (report)
+---|---|---|---
+-|-|-|-
+-|-|-|-
+-|-|-|-
+
+
+
+[@MaiconJunge](https://github.com/MaiconJunge)|item|link to translation|time (report)
+---|---|---|---
+-|-|-|
+-|-|-|-
+-|-|-|-
+---
+
+Decred Journal issue|to language|translator|effort (report)|
+---|---|---|---
+[November](https://xaur.github.io/decred-news/journal/201811.html)|[Spanish](https://medium.com/@decred_es/revista-decred-noviembre-2018-a3e52c5fc1a9)|@elian|[~4h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154505884144636rxmQN:decred.org)
+-|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201811_DecredJournalPL.md)|@artikozel|[~9.5h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154879875421585nLzZF:decred.org)
+[December](https://github.com/xaur/decred-news/blob/master/journal/201812.md)|[Portuguese](https://github.com/MaiconJunge/decred-news/blob/master/journal/201812PTBR.md)|@MaiconJunge|[2 days to translate, 2 to format](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154879391221353bYErK:decred.org)
+-|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201812_DecredJournalPL.md)|@artikozel|[7.5h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154913069426498rztun:decred.org)
