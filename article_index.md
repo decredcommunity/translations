@@ -16,7 +16,7 @@ by @thedecreddigest, [published 2017-06-10](https://thedecreddigest.com/2017/06/
 
 * Spanish: by @elian, [Medium](https://medium.com/@decred_es/decred-d%C3%B3nde-comenz%C3%B3-todo-aaa49fed0091)
 
-* Polish: by @artikozel, [GitHub](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decred_wherediditallbegin.md)
+* Polish: by @kozel, [GitHub](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decred_wherediditallbegin.md)
 
 ### Decred Recruiting
 
@@ -28,7 +28,7 @@ by @jy-p, [published 2017-07-25](https://blog.decred.org/2017/07/25/Decred-Recru
 
 by @Haon, published 2018-01-20, [Medium](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10)
 
-* Chinese: by @Guang168, [Weibo](https://www.weibo.com/ttarticle/p/show?id=2309404315589245067163)
+* Chinese: by @guang, [Weibo](https://www.weibo.com/ttarticle/p/show?id=2309404315589245067163)
 
 ### Detailed analysis of Decred fork resistance
 
