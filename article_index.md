@@ -47,3 +47,9 @@ by @Haon, published 2018-12-12, [Medium](https://medium.com/decred/detailed-anal
 * Polish: by @kozel, [GitHub](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredforkresistance.md)
 
 * Russian: by @DZ, [Medium](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea)
+
+### Using Governance To Decide The Future: Is Decred (DCR) Going to Build a Decentralized Exchange?
+
+by @richardred, published 2019-02-26 on [investinblockchain.com](https://www.investinblockchain.com/is-decred-dcr-building-decentralized-exchange/)
+
+* Chinese: [0xzx.com](https://0xzx.com/2019022708166553.html)
