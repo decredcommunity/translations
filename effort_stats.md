@@ -3,6 +3,7 @@ original title|to language|translator|effort (report)
 [Blockchain governance: how Decred iterates upon Bitcoin](https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e)|[Chinese](https://github.com/Guang168/DCR_CN_articles/blob/master/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin.md)|@guang|[3h+](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154505941244638HLgAi:decred.org)
 [Decred: Where did it all begin?](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)|[Spanish](https://medium.com/@decred_es/decred-d%C3%B3nde-comenz%C3%B3-todo-aaa49fed0091)|@elian|[3h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$1550933838289842YHYAH:matrix.org?via=decred.org&via=matrix.org)
 -|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decred_wherediditallbegin.md)|@kozel|2h
+-|[Dutch](https://github.com/Arriu/Decred/blob/master/translations/wherediditallbegin_dutch.md)|@Jazzah|2h
 [Decred Recruiting](https://blog.decred.org/2017/07/25/Decred-Recruiting/)|[Spanish](https://medium.com/@decred_es/c%C3%B3mo-ser-contratista-en-decred-d0f05386f799)|@elian|[3h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$1550933838289842YHYAH:matrix.org?via=decred.org&via=matrix.org)
 -|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredrecruiting.md)|@kozel|3h
 [How to Get Hired as a Decred Contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10)|[Chinese](https://www.weibo.com/ttarticle/p/show?id=2309404315589245067163)|@guang|n/a
@@ -10,6 +11,7 @@ original title|to language|translator|effort (report)
 [How to Join the Decred Development Team](https://medium.com/@NoahPierau/how-to-join-the-decred-development-team-ad2475d8d99c)|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/howtojointhedecreddevelopmentteam.md)|@kozel|2h
 [Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredforkresistance.md)|@kozel|3.5h
 -|[Russian](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea)|@DZ|n/a
+-|[Dutch](https://github.com/Arriu/Decred/blob/master/translations/decredforkresistance_dutch.md)|@Jazzah|3h
 
 
 Decred Journal issue|to language|translator|effort (report)|
