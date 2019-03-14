@@ -18,6 +18,8 @@ by @thedecreddigest, [published 2017-06-10](https://thedecreddigest.com/2017/06/
 
 * Polish: by @kozel, [GitHub](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decred_wherediditallbegin.md)
 
+* Dutch: by @Jazzah, [Github](https://github.com/Arriu/Decred/blob/master/translations/wherediditallbegin_dutch.md)
+
 ### Decred Recruiting
 
 by @jy-p, [published 2017-07-25](https://blog.decred.org/2017/07/25/Decred-Recruiting/)
@@ -47,6 +49,8 @@ by @Haon, published 2018-12-12, [Medium](https://medium.com/decred/detailed-anal
 * Polish: by @kozel, [GitHub](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredforkresistance.md)
 
 * Russian: by @DZ, [Medium](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea)
+
+* Dutch: by @Jazzah, [Github](https://github.com/Arriu/Decred/blob/master/translations/decredforkresistance_dutch.md)
 
 ### Using Governance To Decide The Future: Is Decred (DCR) Going to Build a Decentralized Exchange?
 
