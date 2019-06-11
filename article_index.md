@@ -57,3 +57,11 @@ by @Haon, published 2018-12-12, [Medium](https://medium.com/decred/detailed-anal
 by @richardred, published 2019-02-26 on [investinblockchain.com](https://www.investinblockchain.com/is-decred-dcr-building-decentralized-exchange/)
 
 * Chinese: [0xzx.com](https://0xzx.com/2019022708166553.html)
+
+### Decred as a DAE Infrastructure Provider
+
+by neil\_nie, published 2019-05-11 on [blog.dcrclub.org](https://blog.dcrclub.org/chapter_05/dcr_DAE.html), original in Chinese
+
+* Chinese: by neil\_nie, [blog.dcrclub.org](https://blog.dcrclub.org/chapter_05/dcr_DAE.html), [chainnode.com](https://www.chainnode.com/post/322124)
+* English: by @changhugo, [Medium](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179)
+* Russian: by @DZ, [Medium](https://medium.com/decred-russia/decred-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA-%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-dae-1f89952b0bab)
