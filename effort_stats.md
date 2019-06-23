@@ -4,6 +4,7 @@ original title|to language|translator|effort (report)
 [Decred: Where did it all begin?](https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/)|[Spanish](https://medium.com/@decred_es/decred-d%C3%B3nde-comenz%C3%B3-todo-aaa49fed0091)|@elian|[3h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$1550933838289842YHYAH:matrix.org?via=decred.org&via=matrix.org)
 -|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decred_wherediditallbegin.md)|@kozel|2h
 -|[Dutch](https://github.com/Arriu/Decred/blob/master/translations/wherediditallbegin_dutch.md)|@Jazzah|2h
+-|[Arabic](https://insaf01.github.io/decred-arabic/decred-where-did-it-all-begin.html)|@arabic|2h
 [Decred Recruiting](https://blog.decred.org/2017/07/25/Decred-Recruiting/)|[Spanish](https://medium.com/@decred_es/c%C3%B3mo-ser-contratista-en-decred-d0f05386f799)|@elian|[3h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$1550933838289842YHYAH:matrix.org?via=decred.org&via=matrix.org)
 -|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredrecruiting.md)|@kozel|3h
 [How to Get Hired as a Decred Contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10)|[Chinese](https://www.weibo.com/ttarticle/p/show?id=2309404315589245067163)|@guang|n/a
