@@ -20,6 +20,8 @@ by @thedecreddigest, [published 2017-06-10](https://thedecreddigest.com/2017/06/
 
 * Dutch: by @Jazzah, [Github](https://github.com/Arriu/Decred/blob/master/translations/wherediditallbegin_dutch.md)
 
+* Arabic by@arij, [Github](https://insaf01.github.io/decred-arabic/decred-where-did-it-all-begin.html)
+
 ### Decred Recruiting
 
 by @jy-p, [published 2017-07-25](https://blog.decred.org/2017/07/25/Decred-Recruiting/)
