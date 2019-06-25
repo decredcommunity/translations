@@ -26,3 +26,4 @@ Decred Journal issue|to language|translator|effort (report)|
 -|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201901_DecredJournalPL.md)|@kozel|7,5h
 [February 2019](https://xaur.github.io/decred-news/journal/201902.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201902_DecredJournalPL.md)|@kozel|6,5h
 -|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201902.html)|@arij|10h +3h review
+[March 2019](https://xaur.github.io/decred-news/journal/201903.html)|[Spanish](https://medium.com/@decred_es/revista-decred-marzo-2019-ae0eb9cdceb9)|@elian|8h
