@@ -13,6 +13,7 @@ original title|to language|translator|effort (report)
 [Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredforkresistance.md)|@kozel|3.5h
 -|[Russian](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea)|@DZ|n/a
 -|[Dutch](https://github.com/Arriu/Decred/blob/master/translations/decredforkresistance_dutch.md)|@Jazzah|3h
+[Why the name Decred is awesome](https://medium.com/decred/why-the-name-decred-is-awesome-9627ae9b4e2)|[Arabic](https://insaf01.github.io/decred-arabic/articles/why-the-name-decred-is-awesome.html)|@arij|2h
 
 
 Decred Journal issue|to language|translator|effort (report)|
