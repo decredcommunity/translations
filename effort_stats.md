@@ -28,9 +28,6 @@ Decred Journal issue|to language|translator|effort (report)|
 -|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201901_DecredJournalPL.md)|@kozel|7,5h
 [February 2019](https://xaur.github.io/decred-news/journal/201902.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201902_DecredJournalPL.md)|@kozel|6,5h
 -|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201902.html)|@arij|10h +3h review
-<<<<<<< HEAD
 -|[Spanish](https://medium.com/@decred_es/revista-decred-febrero-2019-432a461a14a5)|@elian|[8h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$1554310936370329lMayv:matrix.org?via=decred.org&via=matrix.org)
-[May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201905_DecredJournalPL.md)|@kozel|6,5h
-=======
 [March 2019](https://xaur.github.io/decred-news/journal/201903.html)|[Spanish](https://medium.com/@decred_es/revista-decred-marzo-2019-ae0eb9cdceb9)|@elian|8h
->>>>>>> 3cf4232c9d07441a0a96292e01112f10d889e8ae
+[May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201905_DecredJournalPL.md)|@kozel|6,5h
