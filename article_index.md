@@ -74,3 +74,9 @@ by neil\_nie, published 2019-05-11 on [blog.dcrclub.org](https://blog.dcrclub.or
 by @Haon, published 2019-06-14 on [Medium](https://medium.com/decred/why-the-name-decred-is-awesome-9627ae9b4e2)
 
 * Arabic: by @arij, [GitHub](https://insaf01.github.io/decred-arabic/articles/why-the-name-decred-is-awesome.html)
+
+### Monetary premiums, can altcoins compete with Bitcoin?
+
+by @Checkmate, published 2019-07-09 on [medium](https://medium.com/@_Checkmatey_/monetary-premiums-can-altcoins-compete-with-bitcoin-54c97a92c6d4)
+
+* Spanish: by @luisantoniocrag on [medium](https://medium.com/@decred_es/primas-monetarias-pueden-las-altcoins-competir-con-bitcoin-4d549e2f5967)
