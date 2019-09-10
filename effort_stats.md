@@ -31,3 +31,6 @@ Decred Journal issue|to language|translator|effort (report)|
 -|[Spanish](https://medium.com/@decred_es/revista-decred-febrero-2019-432a461a14a5)|@elian|[8h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$1554310936370329lMayv:matrix.org?via=decred.org&via=matrix.org)
 [March 2019](https://xaur.github.io/decred-news/journal/201903.html)|[Spanish](https://medium.com/@decred_es/revista-decred-marzo-2019-ae0eb9cdceb9)|@elian|8h
 [May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201905_DecredJournalPL.md)|@kozel|6,5h
+[June 2019](https://github.com/xaur/decred-news/blob/master/journal/201906.md)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/testbranch/journal/201906_DecredJournalPL.md)|@kozel|6,5h
+[July 2019](https://github.com/xaur/decred-news/blob/master/journal/201907.md)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/testbranch/journal/201907_DecredJournalPL.md)|@kozel|6,5h
+[August 2019]
