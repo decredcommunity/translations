@@ -14,10 +14,6 @@ original title|to language|translator|effort (report)
 [Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Russian](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea)|@DZ|
 [Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Dutch](https://github.com/Arriu/Decred/blob/master/translations/decredforkresistance_dutch.md)|@Jazzah|3h
 [Why the name Decred is awesome](https://medium.com/decred/why-the-name-decred-is-awesome-9627ae9b4e2)|[Arabic](https://insaf01.github.io/decred-arabic/articles/why-the-name-decred-is-awesome.html)|@arij|2h
-
-
-Decred Journal issue|to language|translator|effort (report)|
----|---|---|---
 [DJ November 2018](https://xaur.github.io/decred-news/journal/201811.html)|[Spanish](https://medium.com/@decred_es/revista-decred-noviembre-2018-a3e52c5fc1a9)|@elian|[~4h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154505884144636rxmQN:decred.org)
 [DJ November 2018](https://xaur.github.io/decred-news/journal/201811.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201811_DecredJournalPL.md)|@kozel|[~9.5h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154879875421585nLzZF:decred.org)
 [DJ December 2018](https://xaur.github.io/decred-news/journal/201812.html)|[Portuguese](https://github.com/MaiconJunge/decred-news/blob/master/journal/201812PTBR.md)|@MaiconJunge|[2d translate, 2d format](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154879391221353bYErK:decred.org)
