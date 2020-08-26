@@ -33,4 +33,3 @@ Decred Journal issue|to language|translator|effort (report)|
 [May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201905_DecredJournalPL.md)|@kozel|6,5h
 [June 2019](https://github.com/xaur/decred-news/blob/master/journal/201906.md)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/testbranch/journal/201906_DecredJournalPL.md)|@kozel|6,5h
 [July 2019](https://github.com/xaur/decred-news/blob/master/journal/201907.md)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/testbranch/journal/201907_DecredJournalPL.md)|@kozel|6,5h
-[August 2019]
