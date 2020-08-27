@@ -1,6 +1,11 @@
 translated|original title|to language|translator|effort (report)
 -|-|-|-|-
 {clarify}|[How to Get Hired as a Decred Contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10)|[Chinese](https://www.weibo.com/ttarticle/p/show?id=2309404315589245067163)|@guang|
+2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_
+2020-07-14|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Portuguese](https://stakey.club/translated/federal-reserve/)|@mm|
+2020-07-01|[Why we need Decred: An inclusive approach to sound money](https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b)|[Spanish](https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3)|@adcade|
+2020-05-01|[A New Kind of DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/)|[Spanish](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9)|@francov_|
+2020-03-01|[Secrets They Missed at DevCon: What It's Really Like in a Working DAO](https://cointelegraph.com/news/secrets-they-missed-at-devcon-what-its-really-like-in-a-working-dao)|[Portuguese](https://stakey.club/translated/working-dao/)|@mm|
 2019-03-31|[Decred Technical Brief DTB001](https://decred.org/dcr_technical_brief.pdf)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-technical-brief-ar.html)|@arij|
 2020-03-24|[Theory of Three Pillars in the Cypherpunk Social Contract](https://medium.com/@cato_io/threepillarstheory-cd6b57c5d88a)|[Spanish](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a)|@francov_|
 2020-01-28|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Arabic](https://insaf01.github.io/decred-arabic/articles/beginner-guide-to-the-decred-lightning-network.html)|@arij|
