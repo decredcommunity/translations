@@ -1,7 +1,8 @@
 translated|original title|to language|translator|effort (report)
 -|-|-|-|-
 {clarify}|[How to Get Hired as a Decred Contractor](https://medium.com/decred/how-to-get-hired-as-a-decred-contractor-e1435842df10)|[Chinese](https://www.weibo.com/ttarticle/p/show?id=2309404315589245067163)|@guang|
-2020-05-06|[Theory of Three Pillars in the Cypherpunk Social Contract](https://medium.com/@cato_io/threepillarstheory-cd6b57c5d88a)|[Spanish](https://github.com/francov99/dcrspanish/blob/master/articles/translations/2020-03-24-Theory-of-Three-Pillars-in-the-Cypherpunk-Social-Contract-Esp.md)|@francov_|{link ok?}
+2019-03-31|[Decred Technical Brief DTB001](https://decred.org/dcr_technical_brief.pdf)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-technical-brief-ar.html)|@arij|
+2020-03-24|[Theory of Three Pillars in the Cypherpunk Social Contract](https://medium.com/@cato_io/threepillarstheory-cd6b57c5d88a)|[Spanish](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a)|@francov_|
 2020-01-28|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Arabic](https://insaf01.github.io/decred-arabic/articles/beginner-guide-to-the-decred-lightning-network.html)|@arij|
 2020-01-22|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Spanish](https://medium.com/decred-es/gu%C3%ADa-para-probar-el-lightning-network-de-decred-dcr-344cad6be20e)|@francov_|
 2019-12-02|[My experience setting up a Decred full-node](https://medium.com/crypto-rocket-blog/my-experience-setting-up-a-decred-full-node-8a9bbf55bc30)|[Spanish](https://medium.com/decred-es/mi-experiencia-configurando-un-nodo-completo-de-decred-d5321304bc48)|@pablito|
