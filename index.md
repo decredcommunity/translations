@@ -1,7 +1,10 @@
 translated|original title|to language|translator|effort (report)
 -|-|-|-|-
+2020-08-26|[PD 35 - August 9 - 22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-35.html)|@arij|
 2020-08-14|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Portuguese](https://stakey.club/translated/decred-journal-july-2020/)|@mm|
+2020-08-12|[PD 34 - July 20 - August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-34.html)|@arij|
 2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_
+2020-07-27|[PD 33 - June 13 - July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-033.html)|@arij|
 2020-07-14|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Portuguese](https://stakey.club/translated/federal-reserve/)|@mm|
 2020-07-09|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/the-federal-reserve-a-blatantly-rigged-game.html)|@arij|
 2020-07-01|[Why we need Decred: An inclusive approach to sound money](https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b)|[Spanish](https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3)|@adcade|
