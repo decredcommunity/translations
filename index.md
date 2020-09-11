@@ -1,27 +1,27 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
-2020-09-01|[Decred Business Brief](https://decred.org/brief/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-business-brief.html)|@arij|fully revamped the 2019-02-15 translation, corrections by @abdulrahman4
 2020-09-01|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/how%20decred%20is%20unique.md)
-2020-09-01|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|Arabic (subtitles)|@arij|
 2020-09-01|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-sustainable.md)
-2020-09-01|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-adaptable.md)
 2020-09-01|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-secure.md)
+2020-09-01|[Decred Business Brief](https://decred.org/brief/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-business-brief.html)|@arij|fully revamped the 2019-02-15 translation, corrections by @abdulrahman4
+2020-09-01|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-adaptable.md)
+2020-09-01|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|Arabic (subtitles)|@arij|
 2020-08-31|[Decred, Mining Market Mechanics](https://medium.com/decred/decred-mining-market-mechanics-fd26b921dc46)|[Spanish](https://territorioblockchain.com/decred-mecanica-del-mercado-minero/)|territorioblockchain.com|
 2020-08-26|[PD 35 - August 9 - 22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-35.html)|@arij|corrections by @abdulrahman4
 2020-08-24|[PD 35 - August 9-22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Spanish](https://medium.com/decred-es/politeia-digest-35-agosto-9-22-2020-c18500fda9fd)|@pablito|
 2020-08-24|[PD 34 - July 20-August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Spanish](https://medium.com/decred-es/politeia-digest-34-julio-20-agosto-8-2020-7b2ed06d5263)|@pablito|
 2020-08-21|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202007.html)|@arij|corrections by @abdulrahman4
-2020-08-15|[DJ June 2020](https://xaur.github.io/decred-news/journal/202006.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202006_DecredJournalPL.md)|@kozel|
 2020-08-15|[DJ May 2020](https://xaur.github.io/decred-news/journal/202005.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202005_DecredJournalPL.md)|@kozel|
+2020-08-15|[DJ June 2020](https://xaur.github.io/decred-news/journal/202006.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202006_DecredJournalPL.md)|@kozel|
 2020-08-14|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Portuguese](https://stakey.club/translated/decred-journal-july-2020/)|@mm|
-2020-08-12|[PD 34 - July 20 - August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-34.html)|@arij|corrections by @abdulrahman4
 2020-08-13|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|[Arabic](https://www.youtube.com/watch?v=N0DmpjhuD38) (subtitles)|@arij|
+2020-08-12|[PD 34 - July 20 - August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-34.html)|@arij|corrections by @abdulrahman4
 2020-08-12|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|[Arabic](https://www.youtube.com/watch?v=JuKw3BHO0v0) (subtitles)|@arij|
 2020-08-11|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Spanish](https://medium.com/decred-es/revista-decred-julio-2020-2ce994d8ee8f)|@francov_|
 2020-08-09|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202007_DecredJournalCN.md)|@Dominic|
 2020-08-07|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|[Arabic](https://www.youtube.com/watch?v=8d8YYwVL2WI) (subtitles)|@arij|
-2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|
 2020-08-07|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|[Arabic](https://www.youtube.com/watch?v=QgF9skmVP0s) (subtitles)|@arij|
+2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|
 2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_
 2020-07-27|[PD 33 - June 13 - July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-033.html)|@arij|
 2020-07-21|[PD 33 - June 13-July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Spanish](https://medium.com/decred-es/politeia-digest-33-19-de-julio-2020-4aaa21924312)|@pablito|
@@ -45,12 +45,12 @@ translated|original title|to language|translator|note
 2020-05-23|[PD 31 - Apr 16-May 22 2020](https://blockcommons.red/politeia-digest/issue031/)|[Spanish](https://medium.com/decred-es/politeia-digest-edici%C3%B3n-31-abril-16-mayo-22-2020-28fc2fc75784)|@pablito|
 2020-05-23|[DJ April 2020](https://xaur.github.io/decred-news/journal/202004.html)|[Spanish](https://medium.com/decred-es/revista-decred-abril-2020-36994903a7d7)|@francov_|{translator correct?}
 2020-05-01|[A New Kind of DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/)|[Spanish](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9)|@francov_|
-2020-03-01|[Secrets They Missed at DevCon: What It's Really Like in a Working DAO](https://cointelegraph.com/news/secrets-they-missed-at-devcon-what-its-really-like-in-a-working-dao)|[Portuguese](https://stakey.club/translated/working-dao/)|@mm|
 2020-04-12|[DJ March 2020](https://xaur.github.io/decred-news/journal/202003.html)|[Spanish](https://medium.com/decred-es/revista-decred-marzo-2020-5c445b9227ac)|@francov_|
 2020-04-06|[The Top 5 Reasons to Become a Decred Stakeholder](https://medium.com/decred/the-top-5-reasons-to-become-a-decred-stakeholder-50c40b50bd08)|[Spanish](https://medium.com/decred-es/5-razones-para-ser-un-stakeholder-de-decred-f1085fe2b4b6)|@adcade|
 2020-03-31|[Decred Technical Brief DTB001](https://decred.org/dcr_technical_brief.pdf)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-technical-brief-ar.html)|@arij|
 2020-03-24|[Theory of Three Pillars in the Cypherpunk Social Contract](https://medium.com/@cato_io/threepillarstheory-cd6b57c5d88a)|[Spanish](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a)|@francov_|[alt link](https://medium.com/@decred_es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-b3076345ec02) { why? }
 2020-03-10|[DJ February 2020](https://xaur.github.io/decred-news/journal/202002.html)|[Spanish](https://medium.com/decred-es/revista-decred-febrero-2020-e06761e4b9d3)|@francov_|
+2020-03-01|[Secrets They Missed at DevCon: What It's Really Like in a Working DAO](https://cointelegraph.com/news/secrets-they-missed-at-devcon-what-its-really-like-in-a-working-dao)|[Portuguese](https://stakey.club/translated/working-dao/)|@mm|
 2020-02-10|[DJ January 2020](https://xaur.github.io/decred-news/journal/202001.html)|[Spanish](https://medium.com/decred-es/revista-decred-enero-2020-721a67517a76)|@francov_|
 2020-01-28|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Arabic](https://insaf01.github.io/decred-arabic/articles/beginner-guide-to-the-decred-lightning-network.html)|@arij|
 2020-01-22|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Spanish](https://medium.com/decred-es/gu%C3%ADa-para-probar-el-lightning-network-de-decred-dcr-344cad6be20e)|@francov_|
