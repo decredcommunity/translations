@@ -35,9 +35,9 @@ translated|original title|to language|translator|note
 2019-12-02|[My experience setting up a Decred full-node](https://medium.com/crypto-rocket-blog/my-experience-setting-up-a-decred-full-node-8a9bbf55bc30)|[Spanish](https://medium.com/decred-es/mi-experiencia-configurando-un-nodo-completo-de-decred-d5321304bc48)|@pablito|
 2019-09-11|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/iterating-privacy.html)|@arij|
 2019-09-10|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Russian](https://medium.com/decred-russia/iterating-privacy-6d242f78a648)|@DZ|
-2019-09-10|[DJ July 2019](https://xaur.github.io/decred-news/journal/201907.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/testbranch/journal/201907_DecredJournalPL.md)|@kozel|6.5h
+2019-09-10|[DJ July 2019](https://xaur.github.io/decred-news/journal/201907.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201907_DecredJournalPL.md)|@kozel|6.5h
 2019-08-29|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Portuguese](https://stakey.club/translated/iterating-privacy/)|@mm|
-2019-08-29|[DJ June 2019](https://xaur.github.io/decred-news/journal/201906.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/testbranch/journal/201906_DecredJournalPL.md)|@kozel|6.5h
+2019-08-29|[DJ June 2019](https://xaur.github.io/decred-news/journal/201906.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201906_DecredJournalPL.md)|@kozel|6.5h
 2019-08-21|[Surveying the Privacy Landscape](https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape/)|[Portuguese](https://stakey.club/translated/privacy-landscape/)|@mm|
 2019-08-01|[DJ May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201905_DecredJournalPL.md)|@kozel|6.5h
 2019-07-21|[Libra: Friend or Foe? Worst Case Scenario Post-Congressional Hearings](https://www.ccn.com/news/libra-friend-or-foe/2019/07/21/) ([archived](https://archive.today/zHNN0))|[Portuguese](https://stakey.club/translated/libra/)|@mm|
