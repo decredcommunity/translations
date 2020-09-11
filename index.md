@@ -1,11 +1,11 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
 2020-09-01|[Decred Business Brief](https://decred.org/brief/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-business-brief.html)|@arij|fully revamped the 2019-02-15 translation, corrections by @abdulrahman4
-2020-09-01|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|Arabic (subtitles)|@arij|
+2020-09-01|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/how%20decred%20is%20unique.md)
 2020-09-01|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|Arabic (subtitles)|@arij|
-2020-09-01|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|Arabic (subtitles)|@arij|
-2020-09-01|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|Arabic (subtitles)|@arij|
-2020-09-01|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|Arabic (subtitles)|@arij|
+2020-09-01|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-sustainable.md)
+2020-09-01|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-adaptable.md)
+2020-09-01|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|Arabic (subtitles)|@arij|[source](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-secure.md)
 2020-08-31|[Decred, Mining Market Mechanics](https://medium.com/decred/decred-mining-market-mechanics-fd26b921dc46)|[Spanish](https://territorioblockchain.com/decred-mecanica-del-mercado-minero/)|territorioblockchain.com|
 2020-08-26|[PD 35 - August 9 - 22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-35.html)|@arij|corrections by @abdulrahman4
 2020-08-21|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202007.html)|@arij|corrections by @abdulrahman4
