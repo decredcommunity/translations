@@ -9,6 +9,8 @@ translated|original title|to language|translator|note
 2020-08-31|[Decred, Mining Market Mechanics](https://medium.com/decred/decred-mining-market-mechanics-fd26b921dc46)|[Spanish](https://territorioblockchain.com/decred-mecanica-del-mercado-minero/)|territorioblockchain.com|
 2020-08-26|[PD 35 - August 9 - 22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-35.html)|@arij|
 2020-08-21|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202007.html)|@arij|corrections by @abdulrahman4
+2020-08-15|[DJ June 2020](https://xaur.github.io/decred-news/journal/202006.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202006_DecredJournalPL.md)|@kozel|
+2020-08-15|[DJ May 2020](https://xaur.github.io/decred-news/journal/202005.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202005_DecredJournalPL.md)|@kozel|
 2020-08-14|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Portuguese](https://stakey.club/translated/decred-journal-july-2020/)|@mm|
 2020-08-12|[PD 34 - July 20 - August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-34.html)|@arij|
 2020-08-13|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|[Arabic](https://www.youtube.com/watch?v=N0DmpjhuD38) (subtitles)|@arij|
