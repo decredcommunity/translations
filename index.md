@@ -1,5 +1,6 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2020-09-01|[Decred Business Brief](https://decred.org/brief/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-business-brief.html)|@arij|fully revamped the 2019-02-15 translation, corrections by @abdulrahman4
 2020-09-01|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|Arabic (subtitles)|@arij|
 2020-09-01|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|Arabic (subtitles)|@arij|
 2020-09-01|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|Arabic (subtitles)|@arij|
