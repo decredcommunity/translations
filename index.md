@@ -15,6 +15,7 @@ translated|original title|to language|translator|note
 2020-08-12|[PD 34 - July 20 - August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-34.html)|@arij|
 2020-08-13|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|[Arabic](https://www.youtube.com/watch?v=N0DmpjhuD38) (subtitles)|@arij|
 2020-08-12|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|[Arabic](https://www.youtube.com/watch?v=JuKw3BHO0v0) (subtitles)|@arij|
+2020-08-09|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202007_DecredJournalCN.md)|@Dominic|
 2020-08-07|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|[Arabic](https://www.youtube.com/watch?v=8d8YYwVL2WI) (subtitles)|@arij|
 2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|
 2020-08-07|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|[Arabic](https://www.youtube.com/watch?v=QgF9skmVP0s) (subtitles)|@arij|
