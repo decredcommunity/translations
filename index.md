@@ -22,7 +22,7 @@ translated|original title|to language|translator|note
 2020-08-07|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|[Arabic](https://www.youtube.com/watch?v=8d8YYwVL2WI) (subtitles)|@arij|
 2020-08-07|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|[Arabic](https://www.youtube.com/watch?v=QgF9skmVP0s) (subtitles)|@arij|
 2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|
-2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_
+2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_|
 2020-07-27|[PD 33 - June 13 - July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-033.html)|@arij|
 2020-07-21|[PD 33 - June 13-July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Spanish](https://medium.com/decred-es/politeia-digest-33-19-de-julio-2020-4aaa21924312)|@pablito|
 2020-07-17|[DJ June 2020](https://xaur.github.io/decred-news/journal/202006.html)|[Spanish](https://medium.com/decred-es/revista-decred-junio-2020-a7716b71251e)|@francov_|corrections by @pablito
