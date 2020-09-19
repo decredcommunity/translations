@@ -51,6 +51,7 @@ translated|original title|to language|translator|note
 2020-05-11|[Running a simulation](https://stakey.club/en/running-a-simulation/)|[Portuguese](https://stakey.club/pt/rodando-uma-simulacao/)|@mm|
 2020-05-01|[A New Kind of DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/)|[Spanish](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9)|@francov_|
 2020-04-12|[DJ March 2020](https://xaur.github.io/decred-news/journal/202003.html)|[Spanish](https://medium.com/decred-es/revista-decred-marzo-2020-5c445b9227ac)|@francov_|
+2020-04-11|[DJ December 2019](https://xaur.github.io/decred-news/journal/201912.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201912_DecredJournalPL.md)|@kozel|
 2020-04-06|[The Top 5 Reasons to Become a Decred Stakeholder](https://medium.com/decred/the-top-5-reasons-to-become-a-decred-stakeholder-50c40b50bd08)|[Spanish](https://medium.com/decred-es/5-razones-para-ser-un-stakeholder-de-decred-f1085fe2b4b6)|@adcade|
 2020-03-31|[Decred Technical Brief DTB001](https://decred.org/dcr_technical_brief.pdf)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-technical-brief-ar.html)|@arij|
 2020-03-24|[Theory of Three Pillars in the Cypherpunk Social Contract](https://medium.com/@cato_io/threepillarstheory-cd6b57c5d88a)|[Spanish](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a)|@francov_|[alt link](https://medium.com/@decred_es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-b3076345ec02) { why? }
@@ -61,26 +62,44 @@ translated|original title|to language|translator|note
 2020-02-03|[Decred via Tor network](https://stakey.club/en/decred-via-tor-network/)|[Portuguese](https://stakey.club/pt/decred-atraves-da-rede-tor/)|@mm|
 2020-01-28|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Arabic](https://insaf01.github.io/decred-arabic/articles/beginner-guide-to-the-decred-lightning-network.html)|@arij|
 2020-01-22|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Spanish](https://medium.com/decred-es/gu%C3%ADa-para-probar-el-lightning-network-de-decred-dcr-344cad6be20e)|@francov_|
+2020-01-21|[DJ December 2019](https://xaur.github.io/decred-news/journal/201912.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201912.html)|@arij, @abdulrahman4|
 2020-01-16|[DJ December 2019](https://xaur.github.io/decred-news/journal/202001.html)|[Spanish](https://medium.com/decred-es/revista-decred-diciembre-2019-f02cc8365b84)|@francov_|
+2020-01-14|[DJ December 2019](https://xaur.github.io/decred-news/journal/201912.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/201912_DecredJournalCN.md)|@Dominic|
 2020-01-10|[Offline wallets with dcraddrgen](https://stakey.club/en/offline-wallets-with-dcraddrgen/)|[Portuguese](https://stakey.club/pt/carteiras-offline-com-dcraddrgen/)|@mm|
 2020-01-10|[Decred behind Portknocking](https://stakey.club/en/decred-behind-portknocking/)|[Portuguese](https://stakey.club/pt/decred-atras-de-portknocking/)|@mm|
+2019-01-04|[DJ November 2019](https://xaur.github.io/decred-news/journal/201911.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201911_DecredJournalPL.md)|@kozel|
+2019-12-18|[DJ November 2019](https://xaur.github.io/decred-news/journal/201911.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201911.html)|@arij, @abdulrahman4|
+2019-12-15|[DJ November 2019](https://xaur.github.io/decred-news/journal/201911.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/201911_DecredJournalCN.md)|@Dominic|
 2019-12-10|[DJ November 2019](https://xaur.github.io/decred-news/journal/201911.html)|[Spanish](https://medium.com/decred-es/revista-decred-noviembre-2019-abe801718370)|@luisantoniocrag, @francov_|
 2019-12-02|[My experience setting up a Decred full-node](https://medium.com/crypto-rocket-blog/my-experience-setting-up-a-decred-full-node-8a9bbf55bc30)|[Spanish](https://medium.com/decred-es/mi-experiencia-configurando-un-nodo-completo-de-decred-d5321304bc48)|@pablito|
+2019-11-27|[DJ October 2019](https://xaur.github.io/decred-news/journal/201910.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201910_DecredJournalPL.md)|@kozel|
+2019-11-17|[DJ October 2019](https://xaur.github.io/decred-news/journal/201910.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201910.html)|@arij, @abdulrahman4|
+2019-11-13|[DJ October 2019](https://xaur.github.io/decred-news/journal/201910.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/201910_DecredJournalCN.md)|@Dominic|
 2019-11-12|[DJ October 2019](https://xaur.github.io/decred-news/journal/201910.html)|[Spanish](https://medium.com/decred-es/revista-decred-octubre-2019-5d45cf20ac8a)|@francov_, @luisantoniocrag|
 2019-11-02|[Decrediton on Tails](https://stakey.club/en/decrediton-on-tails/)|[Portuguese](https://stakey.club/pt/decrediton-no-tails/)|@mm|
+2019-10-26|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201909_DecredJournalPL.md)|@kozel|
+2019-10-26|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201908_DecredJournalPL.md)|@kozel|
+2019-10-17|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/201909_DecredJournalCN.md)|@Dominic|
+2019-10-16|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201909.html)|@arij, @abdulrahman4|
 2019-10-12|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Spanish](https://medium.com/decred-es/revista-decred-septiembre-2019-6b9f8afd4c67)|@francov_, @luisantoniocrag|
+2019-09-21|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201908.html)|@arij, @abdulrahman4|
 2019-09-20|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Spanish](https://medium.com/decred-es/revista-decred-agosto-2019-d83f28f3f44e)|@francov_, @luisantoniocrag|
+2019-09-16|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Russian](https://medium.com/decred-russia/decred-journal-august-2019-7c1822319cc6)|@DZ|
 2019-09-11|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/iterating-privacy.html)|@arij|
+2019-09-11|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/201908_DecredJournalCN.md)|@Dominic|
 2019-09-10|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Russian](https://medium.com/decred-russia/iterating-privacy-6d242f78a648)|@DZ|
 2019-09-10|[DJ July 2019](https://xaur.github.io/decred-news/journal/201907.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201907_DecredJournalPL.md)|@kozel|6.5h
 2019-08-29|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Portuguese](https://stakey.club/translated/iterating-privacy/)|@mm|
 2019-08-29|[DJ June 2019](https://xaur.github.io/decred-news/journal/201906.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201906_DecredJournalPL.md)|@kozel|6.5h
 2019-08-26|[DJ July 2019](https://xaur.github.io/decred-news/journal/201907.html)|[Spanish](https://medium.com/decred-es/revista-decred-julio-2019-574a5e6e3bd2)|@francov_, @luisantoniocrag|
 2019-08-24|[DJ June 2019](https://xaur.github.io/decred-news/journal/201906.html)|[Vietnamese](https://github.com/raedahgroup/decred-journal/blob/master/vietnamese/2019-06.md)|@duyenemdo|
+2019-08-24|[DJ July 2019](https://xaur.github.io/decred-news/journal/201907.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201907.html)|@arij, @abdulrahman4|
+2019-08-22|[DJ July 2019](https://xaur.github.io/decred-news/journal/201907.html)|[Russian](https://medium.com/decred-russia/decred-journal-%D0%B8%D1%8E%D0%BB%D1%8C-2019-b7554ec2c66b)|@DZ|
 2019-08-21|[Surveying the Privacy Landscape](https://blog.decred.org/2019/08/21/Surveying-the-Privacy-Landscape/)|[Portuguese](https://stakey.club/translated/privacy-landscape/)|@mm|
 2019-08-19|[DJ June 2019](https://xaur.github.io/decred-news/journal/201906.html)|[Spanish](https://medium.com/decred-es/revista-decred-junio-2019-9ab180513913)|@francov_, @luisantoniocrag|
 2019-08-17|[Monetary premiums, can altcoins compete with Bitcoin?](https://medium.com/decred/monetary-premiums-can-altcoins-compete-with-bitcoin-54c97a92c6d4)|[Spanish](https://medium.com/decred-es/primas-monetarias-pueden-las-altcoins-competir-con-bitcoin-4d549e2f5967)|@luisantoniocrag|[alt link](https://medium.com/decred-es/primas-monetarias-los-altcoins-pueden-competir-con-bitcoin-1debfcba1ae7) of 2019-07-16 { why? }
 2019-08-14|[DJ May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Spanish](https://medium.com/decred-es/revista-decred-mayo-2019-3bd81daa91f9)|@francov_, @luisantoniocrag|
+2019-08-14|[DJ July 2019](https://xaur.github.io/decred-news/journal/201907.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/201907_DecredJournalCN.md)|@Dominic|
 2019-08-14|[DJ April 2019](https://xaur.github.io/decred-news/journal/201904.html)|[Spanish](https://medium.com/decred-es/revista-decred-abril-2019-b026fd19c877)|@francov_, @luisantoniocrag|
 2019-08-05|[DJ June 2019](https://xaur.github.io/decred-news/journal/201906.html)|[Italian](https://medium.com/decred-ita/decred-journal-giugno-2019-31f722da056e)|@DZ|
 2019-08-01|[DJ May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201905_DecredJournalPL.md)|@kozel|6.5h
