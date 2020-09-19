@@ -13,6 +13,7 @@ translated|original title|to language|translator|note
 2020-08-21|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202007.html)|@arij|corrections by @abdulrahman4
 2020-08-15|[DJ May 2020](https://xaur.github.io/decred-news/journal/202005.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202005_DecredJournalPL.md)|@kozel|
 2020-08-15|[DJ June 2020](https://xaur.github.io/decred-news/journal/202006.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202006_DecredJournalPL.md)|@kozel|
+2020-08-15|[Blockchain governance - Part 1](https://stakey.club/en/blockchain-gov-part1/)|[Portuguese](https://stakey.club/pt/blockchain-gov-parte1/)|@mm|
 2020-08-14|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Portuguese](https://stakey.club/translated/decred-journal-july-2020/)|@mm|
 2020-08-13|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|[Arabic](https://www.youtube.com/watch?v=N0DmpjhuD38) (subtitles)|@arij|
 2020-08-12|[PD 34 - July 20 - August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-34.html)|@arij|corrections by @abdulrahman4
@@ -22,6 +23,7 @@ translated|original title|to language|translator|note
 2020-08-07|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|[Arabic](https://www.youtube.com/watch?v=8d8YYwVL2WI) (subtitles)|@arij|
 2020-08-07|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|[Arabic](https://www.youtube.com/watch?v=QgF9skmVP0s) (subtitles)|@arij|
 2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|
+2020-07-31|[Utility of cryptoassets](https://stakey.club/en/utility-of-cryptoassets/)|[Portuguese](https://stakey.club/pt/utilidade-dos-criptoativos/)|@mm|
 2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_|
 2020-07-27|[PD 33 - June 13 - July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-033.html)|@arij|
 2020-07-21|[PD 33 - June 13-July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Spanish](https://medium.com/decred-es/politeia-digest-33-19-de-julio-2020-4aaa21924312)|@pablito|
@@ -30,7 +32,9 @@ translated|original title|to language|translator|note
 2020-07-09|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/the-federal-reserve-a-blatantly-rigged-game.html)|@arij|
 2020-07-06|[Decred Drive (July 2, 2020)](https://medium.com/@decreddrive/the-decred-drive-july-2-9a5934bf673b)|[Spanish](https://medium.com/decred-es/decred-drive-2-de-julio-27ee9e6f53ba)|@francov_|
 2020-07-01|[Why we need Decred: An inclusive approach to sound money](https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b)|[Spanish](https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3)|@adcade|
+2020-06-29|[Querying dcrdata](https://stakey.club/en/querying-dcrdata/)|[Portuguese](https://stakey.club/pt/consultando-o-dcrdata/)|@mm|
 2020-06-29|[Decred Drive (June 25, 2020)](https://medium.com/@decreddrive/the-decred-drive-june-25-49170d569540)|[Spanish](https://medium.com/decred-es/decred-drive-25-de-junio-d344149262bd)|@francov_|
+2020-06-29|[dcrdata: running your own block explorer](https://stakey.club/en/dcrdata-running-your-own-block-explorer/)|[Portuguese](https://stakey.club/pt/dcrdata-executando-seu-proprio-explorador-de-blocos/)|@mm|
 2020-06-26|[Decred Drive (June 18, 2020)](https://medium.com/@decreddrive/the-decred-drive-june-18-782a20d20b6b)|[Spanish](https://medium.com/decred-es/decred-drive-18-de-junio-4b2603f11b13)|@francov_|
 2020-06-26|[Decred Drive (June 11, 2020](https://medium.com/@decreddrive/the-decred-drive-june-11-416c51e89f85)|[Spanish](https://medium.com/decred-es/decred-drive-11-junio-781069b7ed49)|@francov_|
 2020-06-20|[Bitcoin Still Faces On-Chain Scaling Trouble Ahead, Decred Co-Founder Says](https://cointelegraph.com/news/bitcoin-still-faces-on-chain-scaling-trouble-ahead-decred-co-founder-says)|[Portuguese](https://stakey.club/translated/onchain-scaling-trouble/)|@mm|
@@ -44,6 +48,7 @@ translated|original title|to language|translator|note
 2020-06-03|[A More Private Way to Stake](https://blog.decred.org/2020/06/02/A-More-Private-Way-to-Stake/)|[Spanish](https://medium.com/decred-es/una-forma-más-privada-de-hacer-staking-en-dcr-36785ad54a47)|@francov_|
 2020-05-23|[PD 31 - Apr 16-May 22 2020](https://blockcommons.red/politeia-digest/issue031/)|[Spanish](https://medium.com/decred-es/politeia-digest-edici%C3%B3n-31-abril-16-mayo-22-2020-28fc2fc75784)|@pablito|
 2020-05-23|[DJ April 2020](https://xaur.github.io/decred-news/journal/202004.html)|[Spanish](https://medium.com/decred-es/revista-decred-abril-2020-36994903a7d7)|@francov_|{translator correct?}
+2020-05-11|[Running a simulation](https://stakey.club/en/running-a-simulation/)|[Portuguese](https://stakey.club/pt/rodando-uma-simulacao/)|@mm|
 2020-05-01|[A New Kind of DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/)|[Spanish](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9)|@francov_|
 2020-04-12|[DJ March 2020](https://xaur.github.io/decred-news/journal/202003.html)|[Spanish](https://medium.com/decred-es/revista-decred-marzo-2020-5c445b9227ac)|@francov_|
 2020-04-06|[The Top 5 Reasons to Become a Decred Stakeholder](https://medium.com/decred/the-top-5-reasons-to-become-a-decred-stakeholder-50c40b50bd08)|[Spanish](https://medium.com/decred-es/5-razones-para-ser-un-stakeholder-de-decred-f1085fe2b4b6)|@adcade|
@@ -51,13 +56,18 @@ translated|original title|to language|translator|note
 2020-03-24|[Theory of Three Pillars in the Cypherpunk Social Contract](https://medium.com/@cato_io/threepillarstheory-cd6b57c5d88a)|[Spanish](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a)|@francov_|[alt link](https://medium.com/@decred_es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-b3076345ec02) { why? }
 2020-03-11|[DJ February 2020](https://xaur.github.io/decred-news/journal/202002.html)|[Spanish](https://medium.com/decred-es/revista-decred-febrero-2020-e06761e4b9d3)|@francov_|
 2020-03-01|[Secrets They Missed at DevCon: What It's Really Like in a Working DAO](https://cointelegraph.com/news/secrets-they-missed-at-devcon-what-its-really-like-in-a-working-dao)|[Portuguese](https://stakey.club/translated/working-dao/)|@mm|
+2020-03-01|[Installing Go (golang)](https://stakey.club/en/installing-go/)|[Portuguese](https://stakey.club/pt/instalando-o-go/)|@mm|
 2020-02-11|[DJ January 2020](https://xaur.github.io/decred-news/journal/202001.html)|[Spanish](https://medium.com/decred-es/revista-decred-enero-2020-721a67517a76)|@francov_|
+2020-02-03|[Decred via Tor network](https://stakey.club/en/decred-via-tor-network/)|[Portuguese](https://stakey.club/pt/decred-atraves-da-rede-tor/)|@mm|
 2020-01-28|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Arabic](https://insaf01.github.io/decred-arabic/articles/beginner-guide-to-the-decred-lightning-network.html)|@arij|
 2020-01-22|[Beginner guide to the Decred (DCR) Lightning Network](https://medium.com/decred/beginner-guide-to-the-decred-dcr-lightning-network-917f8ad304aa)|[Spanish](https://medium.com/decred-es/gu%C3%ADa-para-probar-el-lightning-network-de-decred-dcr-344cad6be20e)|@francov_|
 2020-01-16|[DJ December 2019](https://xaur.github.io/decred-news/journal/202001.html)|[Spanish](https://medium.com/decred-es/revista-decred-diciembre-2019-f02cc8365b84)|@francov_|
+2020-01-10|[Offline wallets with dcraddrgen](https://stakey.club/en/offline-wallets-with-dcraddrgen/)|[Portuguese](https://stakey.club/pt/carteiras-offline-com-dcraddrgen/)|@mm|
+2020-01-10|[Decred behind Portknocking](https://stakey.club/en/decred-behind-portknocking/)|[Portuguese](https://stakey.club/pt/decred-atras-de-portknocking/)|@mm|
 2019-12-10|[DJ November 2019](https://xaur.github.io/decred-news/journal/201911.html)|[Spanish](https://medium.com/decred-es/revista-decred-noviembre-2019-abe801718370)|@luisantoniocrag, @francov_|
 2019-12-02|[My experience setting up a Decred full-node](https://medium.com/crypto-rocket-blog/my-experience-setting-up-a-decred-full-node-8a9bbf55bc30)|[Spanish](https://medium.com/decred-es/mi-experiencia-configurando-un-nodo-completo-de-decred-d5321304bc48)|@pablito|
 2019-11-12|[DJ October 2019](https://xaur.github.io/decred-news/journal/201910.html)|[Spanish](https://medium.com/decred-es/revista-decred-octubre-2019-5d45cf20ac8a)|@francov_, @luisantoniocrag|
+2019-11-02|[Decrediton on Tails](https://stakey.club/en/decrediton-on-tails/)|[Portuguese](https://stakey.club/pt/decrediton-no-tails/)|@mm|
 2019-10-12|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Spanish](https://medium.com/decred-es/revista-decred-septiembre-2019-6b9f8afd4c67)|@francov_, @luisantoniocrag|
 2019-09-20|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Spanish](https://medium.com/decred-es/revista-decred-agosto-2019-d83f28f3f44e)|@francov_, @luisantoniocrag|
 2019-09-11|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/iterating-privacy.html)|@arij|
@@ -93,8 +103,15 @@ translated|original title|to language|translator|note
 2019-04-03|[DJ February 2019](https://xaur.github.io/decred-news/journal/201902.html)|[Spanish](https://medium.com/decred-es/revista-decred-febrero-2019-432a461a14a5)|@elian|[8h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$1554310936370329lMayv:matrix.org?via=decred.org&via=matrix.org)
 2019-03-31|[DJ February 2019](https://xaur.github.io/decred-news/journal/201902.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201902_DecredJournalPL.md)|@kozel|6.5h
 2019-03-30|[DJ October 2018](https://xaur.github.io/decred-news/journal/201810.html)|[Vietnamese](https://github.com/raedahgroup/decred-journal/blob/master/vietnamese/2018-10.md)|@duyenemdo|
+2019-03-28|[Verifying digital signatures](https://stakey.club/en/verifying-digital-signatures/)|[Portuguese](https://stakey.club/pt/verificacao-de-assinaturas-digitais/)|@mm|
+2019-03-28|[Verifying digital signatures: Electrum](https://stakey.club/en/verifying-digital-signatures-electrum/)|[Portuguese](https://stakey.club/pt/verificando-assinaturas-digitais-electrum/)|@mm|
+2019-03-28|[Verifying digital signatures: Decred](https://stakey.club/en/verifying-digital-signatures-decred/)|[Portuguese](https://stakey.club/pt/verificando-assinaturas-digitais-decred/)|@mm|
+2019-03-28|[Verifying digital signatures: Debian Linux](https://stakey.club/en/verifying-digital-signatures-debian-linux/)|[Portuguese](https://stakey.club/pt/verificando-assinaturas-digitais-debian-linux/)|@mm|
 2019-03-28|[Cryptocurrency security: Spectre and Meltdown](https://blog.decred.org/2018/01/05/Cryptocurrency-security-Spectre-and-Meltdown/)|[Portuguese](https://stakey.club/translated/spectre-e-meltdown/)|@mm|
 2019-03-26|[DJ February 2019](https://xaur.github.io/decred-news/journal/201902.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201902.html)|@arij|10h +3h review
+2019-03-24|[Electrum Verifier](https://stakey.club/en/electrum-verifier/)|[Portuguese](https://stakey.club/pt/electrum-verifier/)|@mm|
+2019-03-24|[Decred Verifier](https://stakey.club/en/decred-verifier/)|[Portuguese](https://stakey.club/pt/decred-verifier/)|@mm|
+2019-03-24|[Debian Verifier](https://stakey.club/en/debian-verifier/)|[Portuguese](https://stakey.club/pt/debian-verifier/)|@mm|
 2019-03-17|[DJ January 2019](https://xaur.github.io/decred-news/journal/201901.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201901_DecredJournalPL.md)|@kozel|7.5h
 2019-03-15|[DJ December 2018](https://xaur.github.io/decred-news/journal/201812.html)|[Vietnamese](https://github.com/raedahgroup/translations/blob/master/vietnamese/2018-12.md)|@duyenemdo|
 2019-03-14|[Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Dutch](https://github.com/Arriu/Decred/blob/master/translations/decredforkresistance_dutch.md)|@jazzah|3h
@@ -114,6 +131,7 @@ translated|original title|to language|translator|note
 2019-01-11|[DJ November 2018](https://xaur.github.io/decred-news/journal/201811.html)|[Spanish](https://medium.com/decred-es/revista-decred-noviembre-2018-a3e52c5fc1a9)|@elian|[~4h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154505884144636rxmQN:decred.org)
 2019-01-11|[DJ December 2018](https://xaur.github.io/decred-news/journal/201812.html)|[Chinese](https://github.com/Guang168/DecredCNJournal/blob/master/201812_DecredJournalCN.md)|@guang, @redpanda3, Jill, @lealife, Neil|
 2019-01-07|[Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Russian](https://medium.com/decred-russia/%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%B8-decred-%D0%BA-%D1%84%D0%BE%D1%80%D0%BA%D1%83-b30c78f764ea)|@DZ|
+2019-01-03|[Sharing the dcrd](https://stakey.club/en/sharing-the-dcrd/)|[Portuguese](https://stakey.club/pt/compartilhando-o-dcrd/)|@mm|
 2018-12-29|[Detailed analysis of Decred fork resistance](https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7)|[Polish](https://github.com/artikozel/decred-articles/blob/master/Polish/into-polish/decredforkresistance.md)|@kozel|3.5h
 2018-12-27|[DJ November 2018](https://xaur.github.io/decred-news/journal/201811.html)|[Russian](https://medium.com/decred-russia/decred-journal-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C-2018-d0aceacfd72a)|@DZ|
 2018-12-25|[DJ November 2018](https://xaur.github.io/decred-news/journal/201811.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201811_DecredJournalPL.md)|@kozel|[~9.5h](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154879875421585nLzZF:decred.org)
@@ -128,6 +146,17 @@ translated|original title|to language|translator|note
 2018-11-17|[Blockchain governance: how Decred iterates upon Bitcoin](https://medium.com/decred/blockchain-governance-how-decred-iterates-upon-bitcoin-3cc7030c655e)|[Chinese](https://github.com/Guang168/DCR_CN_articles/blob/master/Blockchain-governance:-how-Decred-iterates-upon-Bitcoin.md)|@guang|[3h+](https://matrix.to/#/!lbzTjhzNbIaDbuAxkS:decred.org/$154505941244638HLgAi:decred.org)
 2018-10-19|[DJ September 2018](https://xaur.github.io/decred-news/journal/201809.html)|[Russian](https://medium.com/decred-russia/decred-journal-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C-2018-4967ddfd5033)|@DZ|
 2018-09-23|[DJ August 2018](https://xaur.github.io/decred-news/journal/201808.html)|[Russian](https://medium.com/decred-russia/decred-journal-%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82-2018-8375e838954)|@DZ|
+2018-09-15|[Digital certificates for RPC connections](https://stakey.club/en/digital-certificates-for-rpc-connections/)|[Portuguese](https://stakey.club/pt/certificados-digitais-de-conexoes-rpc/)|@mm|
+2018-09-07|[How to obtain Decred?](https://stakey.club/en/how-to-obtain-decred/)|[Portuguese](https://stakey.club/pt/como-obter-decred/)|@mm|
+2018-08-15|[dcrd as a Linux service](https://stakey.club/en/dcrd-as-a-linux-service/)|[Portuguese](https://stakey.club/pt/dcrd-como-um-servico-do-linux/)|@mm|
+2018-08-14|[Installing dcrd](https://stakey.club/en/installing-dcrd/)|[Portuguese](https://stakey.club/pt/instalando-o-dcrd/)|@mm|
+2018-08-07|[Deleting the wallet](https://stakey.club/en/deleting-the-wallet/)|[Portuguese](https://stakey.club/pt/excluindo-a-carteira/)|@mm|
+2018-08-04|[Decrediton Setup](https://stakey.club/en/decrediton-setup/)|[Portuguese](https://stakey.club/pt/instalacao-do-decrediton/)|@mm|
+2018-07-14|[The origin of Decred](https://stakey.club/en/the-origin-of-decred/)|[Portuguese](https://stakey.club/pt/a-origem-do-decred/)|@mm|
+2018-07-14|[DCR subsidy forecast](https://stakey.club/en/dcr-subsidy-forecast/)|[Portuguese](https://stakey.club/pt/previsao-de-subsidio-dcr/)|@mm|
+2018-07-08|[A brief notion of cryptography ](https://stakey.club/en/a-brief-notion-of-cryptography/)|[Portuguese](https://stakey.club/pt/uma-breve-nocao-de-criptografia/)|@mm|
 2018-06-05|[A New Kind of DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/)|[Portuguese](https://stakey.club/translated/um-novo-tipo-de-dex/)|@mm|
 2018-05-27|[Politeia: Proposals in a Timestamped Filesystem](https://blog.decred.org/2017/10/25/Politeia-Proposals-in-a-Timestamped-Filesystem/)|[Portuguese](https://stakey.club/translated/politeia-propostas-com-registro-de-data-e-hora/)|@mm|
 2018-05-26|[2018 Decred Roadmap](https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/)|[Portuguese](https://stakey.club/translated/roadmap-decred-2018/)|@mm|
+2018-05-24|[The Decred structure](https://stakey.club/en/the-decred-structure/)|[Portuguese](https://stakey.club/pt/a-estrutura-do-decred/)|@mm|
+2018-05-24|[Security hardening for digital wallets](https://stakey.club/en/security-hardening-for-digital-wallets/)|[Portuguese](https://stakey.club/pt/hardening-de-seguranca-para-carteiras-digitais/)|@mm|
