@@ -1,11 +1,6 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
-2020-09-01|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|Arabic (subtitles)|@arij, @abdulrahman4|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/how-decred-is-unique.md)
-2020-09-01|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|Arabic (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-sustainable.md)
-2020-09-01|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|Arabic (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-secure.md)
 2020-09-01|[Decred Business Brief](https://decred.org/brief/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-business-brief.html)|@arij, @abdulrahman4|fully revamped the 2019-02-15 translation
-2020-09-01|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|Arabic (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-adaptable.md)
-2020-09-01|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|Arabic (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/how-to-stake-DCR.md)
 2020-08-31|[Decred, Mining Market Mechanics](https://medium.com/decred/decred-mining-market-mechanics-fd26b921dc46)|[Spanish](https://territorioblockchain.com/decred-mecanica-del-mercado-minero/)|territorioblockchain.com|
 2020-08-26|[PD 35 - August 9 - 22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-35.html)|@arij, @abdulrahman4|
 2020-08-24|[PD 35 - August 9-22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Spanish](https://medium.com/decred-es/politeia-digest-35-agosto-9-22-2020-c18500fda9fd)|@pablito|
@@ -15,15 +10,15 @@ translated|original title|to language|translator|note
 2020-08-15|[DJ June 2020](https://xaur.github.io/decred-news/journal/202006.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202006_DecredJournalPL.md)|@kozel|
 2020-08-15|[Blockchain governance - Part 1](https://stakey.club/en/blockchain-gov-part1/)|[Portuguese](https://stakey.club/pt/blockchain-gov-parte1/)|@mm|
 2020-08-14|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Portuguese](https://stakey.club/translated/decred-journal-july-2020/)|@mm|
-2020-08-13|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|[Arabic](https://www.youtube.com/watch?v=N0DmpjhuD38) (subtitles)|@arij, @abdulrahman4|
+2020-08-13|[How Decred is Unique](https://www.youtube.com/watch?v=qHPs6XdP4gQ) (video)|[Arabic](https://www.youtube.com/watch?v=N0DmpjhuD38) (subtitles)|@arij, @abdulrahman4|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/how-decred-is-unique.md), added to original video 2020-09-01
 2020-08-12|[PD 34 - July 20 - August 8 2020](https://blockcommons.red/politeia-digest/issue034/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-34.html)|@arij, @abdulrahman4|
-2020-08-12|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|[Arabic](https://www.youtube.com/watch?v=JuKw3BHO0v0) (subtitles)|@arij|
+2020-08-12|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|[Arabic](https://www.youtube.com/watch?v=JuKw3BHO0v0) (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/how-to-stake-DCR.md), added to original video 2020-09-01
 2020-08-11|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Spanish](https://medium.com/decred-es/revista-decred-julio-2020-2ce994d8ee8f)|@francov_, @pablito|partial, full w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202007.md)
 2020-08-09|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202007_DecredJournalCN.md)|@Dominic|
 2020-08-08|[DJ July 2020](https://xaur.github.io/decred-news/journal/202007.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202007_DecredJournalCN.md)|@Dominic|
-2020-08-07|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|[Arabic](https://www.youtube.com/watch?v=8d8YYwVL2WI) (subtitles)|@arij|
-2020-08-07|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|[Arabic](https://www.youtube.com/watch?v=QgF9skmVP0s) (subtitles)|@arij|
-2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|
+2020-08-07|[Decred: Sustainable](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|[Arabic](https://www.youtube.com/watch?v=8d8YYwVL2WI) (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-sustainable.md), added to original video 2020-09-01
+2020-08-07|[Decred: Secure](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|[Arabic](https://www.youtube.com/watch?v=QgF9skmVP0s) (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-secure.md), added to original video 2020-09-01
+2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-adaptable.md), added to original video 2020-09-01
 2020-07-31|[Utility of cryptoassets](https://stakey.club/en/utility-of-cryptoassets/)|[Portuguese](https://stakey.club/pt/utilidade-dos-criptoativos/)|@mm|
 2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_|
 2020-07-27|[PD 33 - June 13 - July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-033.html)|@arij, @abdulrahman4|
