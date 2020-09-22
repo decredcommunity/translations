@@ -244,3 +244,4 @@ translated|original title|to language|translator|note
 2018-05-26|[2018 Decred Roadmap](https://blog.decred.org/2018/02/28/2018-Decred-Roadmap/)|[Portuguese](https://stakey.club/translated/roadmap-decred-2018/)|@mm|
 2018-05-24|[The Decred structure](https://stakey.club/en/the-decred-structure/)|[Portuguese](https://stakey.club/pt/a-estrutura-do-decred/)|@mm|
 2018-05-24|[Security hardening for digital wallets](https://stakey.club/en/security-hardening-for-digital-wallets/)|[Portuguese](https://stakey.club/pt/hardening-de-seguranca-para-carteiras-digitais/)|@mm|
+2018-02-06|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|[Portuguese](https://www.youtube.com/watch?v=yIl0DuwiQuA) (subtitles)|{ who? }|subs added to original en video (not sure if exactly the same subs)
