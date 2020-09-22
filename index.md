@@ -21,6 +21,7 @@ translated|original title|to language|translator|note
 2020-08-07|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Arabic](https://www.youtube.com/watch?v=j6KBwxBcvKs) (subtitles)|@arij|[src](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/scripts/decred-adaptable.md), added to original video 2020-09-01
 2020-07-31|[Utility of cryptoassets](https://stakey.club/en/utility-of-cryptoassets/)|[Portuguese](https://stakey.club/pt/utilidade-dos-criptoativos/)|@mm|
 2020-07-31|[The Federal Reserve: A Blatantly Rigged Game](https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/)|[Spanish](https://medium.com/decred-es/la-reserva-federal-un-sistema-realmente-manipulado-d40dedcc619b)|@francov_|[src](https://github.com/DecredES/traducciones/blob/master/La-reserva-federal-un-sistema-realmente-manipulado.md)
+2020-07-31|[Decred bi-Weekly News Update - July 31st, 2020](https://www.youtube.com/watch?v=SwDH0mIAB_w) (video)|Vietnamese (subtitles)|{ who? }|{ tr date unknown }
 2020-07-27|[PD 33 - June 13 - July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-033.html)|@arij, @abdulrahman4|
 2020-07-21|[PD 33 - June 13-July 19 2020](https://blockcommons.red/politeia-digest/issue033/)|[Spanish](https://medium.com/decred-es/politeia-digest-33-19-de-julio-2020-4aaa21924312)|@pablito|
 2020-07-21|[DJ June 2020](https://xaur.github.io/decred-news/journal/202006.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202006.html)|@arij, @abdulrahman4|
@@ -58,11 +59,14 @@ translated|original title|to language|translator|note
 2020-05-23|[PD 31 - Apr 16-May 22 2020](https://blockcommons.red/politeia-digest/issue031/)|[Spanish](https://medium.com/decred-es/politeia-digest-edici%C3%B3n-31-abril-16-mayo-22-2020-28fc2fc75784)|@pablito|
 2020-05-23|[DJ April 2020](https://xaur.github.io/decred-news/journal/202004.html)|[Spanish](https://medium.com/decred-es/revista-decred-abril-2020-36994903a7d7)|@francov_|{translator correct?} partial, full w/ dev, outreach and rel ext [here](https://github.com/francov99/dcrspanish/blob/master/decred-journal-spanish/journal/202004.md)
 2020-05-16|[DJ April 2020](https://xaur.github.io/decred-news/journal/202004.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202004.html)|@arij, @abdulrahman4|
+2020-05-12|[Decred Construct Feat. Devs Luke Powell & Matheus Degiovani on Politeia + LN - Consensus 2020](https://www.youtube.com/watch?v=HexsUmqA7-Y) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
 2020-05-11|[Running a simulation](https://stakey.club/en/running-a-simulation/)|[Portuguese](https://stakey.club/pt/rodando-uma-simulacao/)|@mm|
 2020-05-11|[DJ April 2020](https://xaur.github.io/decred-news/journal/202004.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202004_DecredJournalCN.md)|@Dominic|
+2020-05-01|[DCR 101 - How to Stake Decred [2020]](https://www.youtube.com/watch?v=m5lcm6yttEk) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
 2020-05-01|[A New Kind of DEX](https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/)|[Spanish](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9)|@francov_|
 2020-04-17|[DJ March 2020](https://xaur.github.io/decred-news/journal/202003.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202003.html)|@arij, @abdulrahman4|
 2020-04-14|[DJ March 2020](https://xaur.github.io/decred-news/journal/202003.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202003_DecredJournalPL.md)|@kozel|
+2020-04-13|[DCR 101 - Working For The Decred DAO](https://www.youtube.com/watch?v=Ud4LVhFwL9g) (video)|Spanish (subtitles)|{ who? }|{ tr date unknown }
 2020-04-12|[DJ March 2020](https://xaur.github.io/decred-news/journal/202003.html)|[Spanish](https://medium.com/decred-es/revista-decred-marzo-2020-5c445b9227ac)|@francov_|partial, full w/ dev [here](https://github.com/francov99/dcrspanish/blob/master/decred-journal-spanish/journal/202003.md)
 2020-04-11|[DJ December 2019](https://xaur.github.io/decred-news/journal/201912.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/201912_DecredJournalPL.md)|@kozel|
 2020-04-11|[DJ January 2020](https://xaur.github.io/decred-news/journal/202001.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202001_DecredJournalPL.md)|@kozel|
@@ -71,6 +75,8 @@ translated|original title|to language|translator|note
 2020-04-06|[The Top 5 Reasons to Become a Decred Stakeholder](https://medium.com/decred/the-top-5-reasons-to-become-a-decred-stakeholder-50c40b50bd08)|[Spanish](https://medium.com/decred-es/5-razones-para-ser-un-stakeholder-de-decred-f1085fe2b4b6)|@adcade|
 2020-04-05|[Decred bi-Weekly News Update - March 31st, 2020](https://www.youtube.com/watch?v=MBi7d263HvE) (video)|[Russian](https://www.youtube.com/watch?v=gjUUWHZYKgI)|@ivandecredfan|
 2020-03-31|[Decred Technical Brief DTB001](https://decred.org/dcr_technical_brief.pdf)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-technical-brief-ar.html)|@arij, @abdulrahman4|
+2020-03-31|[Decred bi-Weekly News Update - March 31st, 2020](https://www.youtube.com/watch?v=MBi7d263HvE) (video)|Spanish (subtitles)|{ who? }|{ tr date unknown }
+2020-03-25|[Decred's 2020 Marketing and Publishing Proposals for the USA & Brazil Breakdown](https://www.youtube.com/watch?v=Liol1lLCinQ) (video)|Spanish (subtitles)|{ who? }|{ tr date unknown }
 2020-03-24|[Theory of Three Pillars in the Cypherpunk Social Contract](https://medium.com/@cato_io/threepillarstheory-cd6b57c5d88a)|[Spanish](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a)|@francov_|[alt link](https://medium.com/@decred_es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-b3076345ec02) { why? }
 2020-03-20|[DJ February 2020](https://xaur.github.io/decred-news/journal/202002.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202002.html)|@arij, @abdulrahman4|
 2020-03-19|[Decred: Secure. Adaptable. Sustainable](https://www.youtube.com/watch?v=qjZwWD0pDzw) (video)|[Spanish](https://www.youtube.com/watch?v=4zuFqs5QVkE) (subtitles)|{ who? }|
@@ -79,7 +85,12 @@ translated|original title|to language|translator|note
 2020-03-19|[Decred: Adaptable](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|[Spanish](https://www.youtube.com/watch?v=uX9fZVGdK5I) (subtitles)|{ who? }|
 2020-03-17|[Decred bi-Weekly News Update - March 12th, 2020](https://www.youtube.com/watch?v=N4U1FwYUaKA) (video)|[Russian](https://www.youtube.com/watch?v=tPI9v_UZANE)|@ivandecredfan|
 2020-03-12|[DJ February 2020](https://xaur.github.io/decred-news/journal/202002.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202002_DecredJournalCN.md)|@Dominic|
+2020-03-12|[Decred bi-Weekly News Update - March 12th, 2020](https://www.youtube.com/watch?v=N4U1FwYUaKA) (video)|Spanish (subtitles)|{ who? }|{ tr date unknown }
 2020-03-11|[DJ February 2020](https://xaur.github.io/decred-news/journal/202002.html)|[Spanish](https://medium.com/decred-es/revista-decred-febrero-2020-e06761e4b9d3)|@francov_|partial, full w/ dev [here](https://github.com/francov99/dcrspanish/blob/master/decred-journal-spanish/journal/202002.md)
+2020-03-04|[Decred: Secure. Adaptable. Sustainable.](https://www.youtube.com/watch?v=qjZwWD0pDzw) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
+2020-03-04|[Decred: Sustainable.](https://www.youtube.com/watch?v=wLCmwKzC9_k) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
+2020-03-04|[Decred: Secure.](https://www.youtube.com/watch?v=ws-8gHJhP3o) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
+2020-03-04|[Decred: Adaptable.](https://www.youtube.com/watch?v=k_QJqsK5YHM) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
 2020-03-01|[Secrets They Missed at DevCon: What It's Really Like in a Working DAO](https://cointelegraph.com/news/secrets-they-missed-at-devcon-what-its-really-like-in-a-working-dao)|[Portuguese](https://stakey.club/translated/working-dao/)|@mm|
 2020-03-01|[Installing Go (golang)](https://stakey.club/en/installing-go/)|[Portuguese](https://stakey.club/pt/instalando-o-go/)|@mm|
 2020-02-28|[Decred Bi-Weekly News Update - February 25th, 2020](https://www.youtube.com/watch?v=RMqrIZcR-Iw) (video)|[Russian](https://www.youtube.com/watch?v=GeB53Y-lXlM)|@ivandecredfan|
@@ -251,3 +262,14 @@ translated|original title|to language|translator|note
 2018-05-24|[The Decred structure](https://stakey.club/en/the-decred-structure/)|[Portuguese](https://stakey.club/pt/a-estrutura-do-decred/)|@mm|
 2018-05-24|[Security hardening for digital wallets](https://stakey.club/en/security-hardening-for-digital-wallets/)|[Portuguese](https://stakey.club/pt/hardening-de-seguranca-para-carteiras-digitais/)|@mm|
 2018-02-06|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|[Portuguese](https://www.youtube.com/watch?v=yIl0DuwiQuA) (subtitles)|{ who? }|subs added to original en video (not sure if exactly the same subs)
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Ukrainian (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Spanish (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Portuguese (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Polish (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Korean (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Greek (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|French (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Chinese (Taiwan) (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Arabic (subtitles)|{ who? }|{ tr date unknown }
+2017-07-10|[Decred Assembly - Ep9 - Litecoin, Decred and More w/ Charlie Lee](https://www.youtube.com/watch?v=0q7kapWMAX8) (video)|Spanish (subtitles)|{ who? }|{ tr date unknown }
+2017-07-10|[Decred Assembly - Ep9 - Litecoin, Decred and More w/ Charlie Lee](https://www.youtube.com/watch?v=0q7kapWMAX8) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
