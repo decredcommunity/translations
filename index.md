@@ -270,6 +270,6 @@ translated|original title|to language|translator|note
 2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Greek (subtitles)|{ who? }|{ tr date unknown }
 2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|French (subtitles)|{ who? }|{ tr date unknown }
 2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Chinese (Taiwan) (subtitles)|{ who? }|{ tr date unknown }
-2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Arabic (subtitles)|{ who? }|{ tr date unknown }
+2017-10-24|[What is Decred? An Introduction](https://www.youtube.com/watch?v=GAMp5V_gG1E) (video)|Arabic (subtitles)|@arij|{ tr date unknown }
 2017-07-10|[Decred Assembly - Ep9 - Litecoin, Decred and More w/ Charlie Lee](https://www.youtube.com/watch?v=0q7kapWMAX8) (video)|Spanish (subtitles)|{ who? }|{ tr date unknown }
 2017-07-10|[Decred Assembly - Ep9 - Litecoin, Decred and More w/ Charlie Lee](https://www.youtube.com/watch?v=0q7kapWMAX8) (video)|Russian (subtitles)|{ who? }|{ tr date unknown }
