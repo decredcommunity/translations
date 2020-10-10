@@ -1,5 +1,11 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2020-10-07|[PD 37 - September 16 - October 1 2020](https://blockcommons.red/politeia-digest/issue037/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-37.html)|@arij, @abdulrahman4|
+2020-10-01|[Meet The Disruptors: How Jake Yocom-Piatt of Decred Aims To Redefine Governance, With Blockchain Technology](https://medium.com/authority-magazine/meet-the-disruptors-how-jake-yocom-piatt-of-decred-aims-to-redefine-governance-with-blockchain-5c3724f20e74)|[Chinese](https://github.com/Decred-CN/articles/blob/master/Meet%20The%20Disruptors.md)|@Dominic|
+2020-09-30|[DJ August 2020](https://xaur.github.io/decred-news/journal/202008.html)|[Spanish](https://medium.com/decred-es/revista-decred-agosto-2020-721718972b5a)|@francov_|partial, [mirrored](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202008.md) on GitHub
+2020-09-24|[PD 36 - August 23 - September 15 2020](https://blockcommons.red/politeia-digest/issue036/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-36.html)|@arij, @abdulrahman4|
+2020-09-21|[DJ August 2020](https://xaur.github.io/decred-news/journal/202008.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202008.html)|@arij, @abdulrahman4|
+2020-09-14|[DJ August 2020](https://xaur.github.io/decred-news/journal/202008.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202008_DecredJournalCN.md)|@Dominic|
 2020-09-01|[Decred Business Brief](https://decred.org/brief/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-business-brief.html)|@arij, @abdulrahman4|fully revamped the 2019-02-15 translation
 2020-08-31|[Decred, Mining Market Mechanics](https://medium.com/decred/decred-mining-market-mechanics-fd26b921dc46)|[Spanish](https://territorioblockchain.com/decred-mecanica-del-mercado-minero/)|territorioblockchain.com|
 2020-08-26|[PD 35 - August 9 - 22 2020](https://blockcommons.red/politeia-digest/issue035/)|[Arabic](https://insaf01.github.io/politeia-digest-ar/issues/issue-35.html)|@arij, @abdulrahman4|
@@ -158,7 +164,7 @@ translated|original title|to language|translator|note
 2019-06-22|[Staking Isn’t Just a Way to Earn Crypto Money – And It Shouldn’t Be](https://www.coindesk.com/staking-isnt-just-a-way-to-earn-crypto-money-and-it-shouldnt-be)|[Portuguese](https://stakey.club/translated/staking/)|@mm|
 2019-06-21|[DJ May 2019](https://xaur.github.io/decred-news/journal/201905.html)|[Vietnamese](https://github.com/raedahgroup/decred-journal/blob/master/vietnamese/2019-05.md)|@duyenemdo|
 2019-06-20|[DJ April 2019](https://xaur.github.io/decred-news/journal/201904.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201904.html)|@arij, @abdulrahman4|
-2019-06-19|[Decred: Where did it all begin?](https://thedecreddigest.org/2017/06/10/decred-where-did-it-all-begin/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-where-did-it-all-begin.html)|@arij|2h
+2019-06-19|[Decred: Where did it all begin?](https://thedecreddigest.org/2017/06/10/decred-where-did-it-all-begin/)|[Arabic](https://insaf01.github.io/decred-arabic/articles/decred-where-did-it-all-begin.html)|@arij, @abdulrahman4|2h, updated by @abdulrahman4 2020-09-20
 2019-06-10|[Decred as a DAO Infrastructure Provider](https://medium.com/@changhugo/decred-as-a-dae-infrastructure-provider-970677f38179)|[Russian](https://medium.com/decred-russia/decred-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA-%D0%B8%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-dae-1f89952b0bab)|@DZ|
 2019-06-07|[DJ April 2019](https://xaur.github.io/decred-news/journal/201904.html)|[Vietnamese](https://github.com/raedahgroup/decred-journal/blob/master/vietnamese/2019-04.md)|@duyenemdo|
 2019-06-05|[DJ March 2019](https://xaur.github.io/decred-news/journal/201903.html)|[Spanish](https://medium.com/decred-es/revista-decred-marzo-2019-ae0eb9cdceb9)|@elian|8h
