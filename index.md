@@ -1,6 +1,7 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
 2020-11-06|[DJ September 2020](https://xaur.github.io/decred-news/journal/202009.html)|[Vietnamese](https://github.com/raedahgroup/translations/blob/master/vietnamese/202009.md)|@duyenemdo|
+10-10-31[Blockchain governance - Part 1](https://stakey.club/en/blockchain-gov-part1/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/Gobernanza-blockchain-parte-uno.md)|@francov_
 2020-10-26|[How to get on DCRDEX MVP](https://www.publish0x.com/block-commons/how-to-get-on-dcrdex-mvp-xolpzmv)|[Spanish](https://medium.com/decred-es/c%C3%B3mo-instalar-y-usar-dcrdex-93c59d96f176)|@pablito|
 2020-10-25|[Meet The Disruptors: How Jake Yocom-Piatt of Decred Aims To Redefine Governance, With Blockchain Technology](https://medium.com/authority-magazine/meet-the-disruptors-how-jake-yocom-piatt-of-decred-aims-to-redefine-governance-with-blockchain-5c3724f20e74)|[Spanish](https://medium.com/decred-es/conoce-a-los-disruptores-como-jake-yocom-piat-redefine-la-gobernanza-con-la-tecnología-blockchain-d959bb1ac296)|@francov_|
 2020-10-25|[DJ September 2020](https://xaur.github.io/decred-news/journal/202009.html)|[Spanish](https://medium.com/decred-es/revista-decred-septiembre-2020-476f2d584c08)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202009.md) (completed 2020-11-09)
