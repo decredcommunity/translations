@@ -1,5 +1,6 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2020-12-01|[Decred: Where did it all begin?](https://thedecreddigest.wordpress.com/2017/06/10/decred-where-did-it-all-begin/)|[Arabic](https://www.satoshiat.com/2020/12/%d8%a7%d9%84%d8%af%d9%8a%d9%83%d8%b1%d9%8a%d8%af-%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a8%d8%af%d8%a3%d8%aa%d8%9f/)||
 2020-11-30|[Utility of cryptoassets](https://stakey.club/en/utility-of-cryptoassets/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/La-utilidad-de-los-criptoactivos.md)|@francov_|{ finished? }
 2020-11-30|[Monero and Decred are the new Bitcoin](https://john-dennehy.medium.com/monero-and-decred-are-the-new-bitcoin-34a8c1fb2515)|[Spanish](https://github.com/DecredES/traducciones/blob/master/Monero-y-Decred-son-el-nuevo-Bitcoin.md)|@francov_|
 2020-11-26|[DJ October 2020](https://xaur.github.io/decred-news/journal/202010.html)|[Spanish](https://medium.com/decred-es/revista-decred-octubre-2020-6046236fc0c1)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202010.md)
