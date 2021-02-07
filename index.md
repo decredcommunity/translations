@@ -1,14 +1,17 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
-2021-01-04|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/privacidad_iterativa.md)|@francov_|
+2021-01-21|[The Decred structure](https://stakey.club/en/the-decred-structure/)|[Spanish](https://medium.com/decred-es/la-estructura-de-decred-ad6e56794815)|@francov_|[src](https://github.com/DecredES/traducciones/blob/master/la_estructura_de_decred.md)
+2021-01-20|[DJ December 2020](https://xaur.github.io/decred-news/journal/202012.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202012.html)|@arij, @abdulrahman4|
+2021-01-18|[DJ December 2020](https://xaur.github.io/decred-news/journal/202012.html)|[Spanish](https://medium.com/decred-es/feliz-a%C3%B1o-nuevo-a-todos-74e830e7c5ad)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202012.md) completed 2021-01-28
+2021-01-18|[DJ December 2020](https://xaur.github.io/decred-news/journal/202012.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202012_DecredJournalCN.md)|@Dominic|
+2021-01-15|[Iterating Privacy](https://blog.decred.org/2019/08/28/Iterating-Privacy/)|[Spanish](https://medium.com/decred-es/privacidad-iterativa-d4ecef46a9e9)|@francov_|[src](https://github.com/DecredES/traducciones/blob/master/privacidad_iterativa.md)
 2021-01-01|[Verifying digital signatures](https://stakey.club/en/verifying-digital-signatures/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/verificacion_de_firmas_digitales.md)|@francov_|{ completed? }
-2021-01-01|[The Decred structure](https://stakey.club/en/the-decred-structure/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/la_estructura_de_decred.md)|@francov_|{ completed? }
 2021-01-01|[Decred Verifier](https://stakey.club/en/decred-verifier/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/Verificador_de_Decred.md)|@francov_|{ completed? }
 2020-12-31|[Blockchain Governance - Part 7](https://stakey.club/en/blockchain-gov-part7/)|[Portuguese](https://stakey.club/pt/blockchain-gov-parte7/)|@mm|
 2020-12-31|[Blockchain Governance - Part 6](https://stakey.club/en/blockchain-gov-part6/)|[Portuguese](https://stakey.club/pt/blockchain-gov-parte6/)|@mm|
 2020-12-28|[Verifying digital signatures: Decred](https://stakey.club/en/verifying-digital-signatures-decred/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/verificacion-de-firmas-digitales-decred.md)|@francov_|
 2020-12-27|[Security hardening for digital wallets](https://stakey.club/en/security-hardening-for-digital-wallets/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/consejos-de-seguridad-para-tus-billeteras-digitales.md)|@francov_|published on [Medium](https://medium.com/decred-es/consejos-de-seguridad-para-tus-billeteras-digitales-feb629f09163) 2020-12-29
-2020-12-20|[DJ November 2020](https://xaur.github.io/decred-news/journal/202011.html)|[Spanish](https://medium.com/decred-es/revista-decred-noviembre-2020-9bd9ee68e253)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202011.md)
+2020-12-20|[DJ November 2020](https://xaur.github.io/decred-news/journal/202011.html)|[Spanish](https://medium.com/decred-es/revista-decred-noviembre-2020-9bd9ee68e253)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202011.md) completed 2021-01-20
 2020-12-19|[DJ November 2020](https://xaur.github.io/decred-news/journal/202011.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202011.html)|@arij, @abdulrahman4|
 2020-12-14|[DJ November 2020](https://xaur.github.io/decred-news/journal/202011.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202011_DecredJournalCN.md)|@Dominic|
 2020-12-13|[Utility of cryptoassets](https://stakey.club/en/utility-of-cryptoassets/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/La-utilidad-de-los-criptoactivos.md)|@francov_|
