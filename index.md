@@ -1,5 +1,10 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2021-02-23|[Building a transparent future with the Decred blockchain](https://medium.com/decred/building-a-transparent-future-with-the-decred-blockchain-e77471d28059)|[Arabic](https://insaf01.github.io/decred-arabic/articles/building-a-transparent-future-with-decred-blockchain.html)|@arij, @abdulrahman4|
+2021-02-19|[DJ January 2021](https://xaur.github.io/decred-news/journal/202101.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202101.html)|@arij, @abdulrahman4|
+2021-02-17|[Decred News Update, Jan 24th, 2021 - 1.6 Imminent, Decred Eco, Metric Highs, Proposals, New Content!](https://www.youtube.com/watch?v=hRvGHhGx-Fg) (video)|[Spanish](https://www.youtube.com/watch?v=Quf8u1Ksm4M) (subtitles)|@francov_|[src](https://github.com/DecredES/traducciones/blob/master/videos/News-jan-24-2021.md)
+2021-02-15|[DJ January 2021](https://xaur.github.io/decred-news/journal/202101.html)|[Spanish](https://medium.com/decred-es/revista-decred-enero-2021-7a5b22799d49)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2021/202101.md) completed 2021-03-02
+2021-02-15|[DJ January 2021](https://xaur.github.io/decred-news/journal/202101.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202101_DecredJournalCN.md)|@Dominic|
 2021-01-21|[The Decred structure](https://stakey.club/en/the-decred-structure/)|[Spanish](https://medium.com/decred-es/la-estructura-de-decred-ad6e56794815)|@francov_|[src](https://github.com/DecredES/traducciones/blob/master/la_estructura_de_decred.md)
 2021-01-20|[DJ December 2020](https://xaur.github.io/decred-news/journal/202012.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202012.html)|@arij, @abdulrahman4|
 2021-01-18|[DJ December 2020](https://xaur.github.io/decred-news/journal/202012.html)|[Spanish](https://medium.com/decred-es/feliz-a%C3%B1o-nuevo-a-todos-74e830e7c5ad)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2020/202012.md) completed 2021-01-28
