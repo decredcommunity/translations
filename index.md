@@ -1,7 +1,10 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2021-04-26|[Decred Blockchain Analysis - Part 2 PoW wow](https://blockcommons.red/post/dcr-on-chain-2/)|[Spanish](https://medium.com/decred-es/análisis-de-la-blockchain-de-decred-pt-2-pow-wow-376aab0be23c)|@francov_|
+2021-04-23|[DJ March 2021](https://xaur.github.io/decred-news/journal/202103.html)|[Spanish](https://medium.com/decred-es/revista-decred-marzo-2021-6b1097cdd6ed)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2021/202103.md)
+2021-04-23|[DJ March 2021](https://xaur.github.io/decred-news/journal/202103.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202103.html)|@arij, @abdulrahman4|
+2021-04-17|[DJ March 2021](https://xaur.github.io/decred-news/journal/202103.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202103_DecredJournalCN.md)|@Dominic|
 2021-03-31|[Matheus Degiovani Interview Decred in Depth (live)](https://www.youtube.com/watch?v=O6oIrRsZnMQ) (video)|Spanish (subtitles)|@nachito|[src](https://github.com/DecredES/traducciones/blob/master/videos/Matheus%20Degiovani%20Interview%20Decred%20in%20Depth%20live.es-419.sbv), added to original video {when?}
-2021-03-30|[Decred Blockchain Analysis - Part 2 PoW wow](https://blockcommons.red/post/dcr-on-chain-2/)|[Spanish](https://github.com/DecredES/traducciones/blob/master/Analisis-de-la-blockchain-de-decred-pt-2-pos-wow.md)|@francov_|{ finished? }
 2021-03-23|[DJ February 2021](https://xaur.github.io/decred-news/journal/202102.html)|[Spanish](https://medium.com/decred-es/revista-decred-febrero-2021-7634a4ca5775)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2021/february_2021.md)
 2021-03-23|[DJ February 2021](https://xaur.github.io/decred-news/journal/202102.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202102.html)|@arij, @abdulrahman4|
 2021-03-17|[DJ February 2021](https://xaur.github.io/decred-news/journal/202102.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202102_DecredJournalCN.md)|@Dominic|
