@@ -1,5 +1,7 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2021-05-25|[DJ April 2021](https://xaur.github.io/decred-news/journal/202104.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202104.html)|@arij, @abdulrahman4|
+2021-05-14|[DJ April 2021](https://xaur.github.io/decred-news/journal/202104.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202104_DecredJournalCN.md)|@Dominic|
 2021-04-26|[Decred Blockchain Analysis - Part 2 PoW wow](https://blockcommons.red/post/dcr-on-chain-2/)|[Spanish](https://medium.com/decred-es/análisis-de-la-blockchain-de-decred-pt-2-pow-wow-376aab0be23c)|@francov_|
 2021-04-23|[DJ March 2021](https://xaur.github.io/decred-news/journal/202103.html)|[Spanish](https://medium.com/decred-es/revista-decred-marzo-2021-6b1097cdd6ed)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/traducciones/blob/master/revista-decred/2021/202103.md)
 2021-04-23|[DJ March 2021](https://xaur.github.io/decred-news/journal/202103.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202103.html)|@arij, @abdulrahman4|
