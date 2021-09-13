@@ -1,5 +1,9 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2021-08-24|[DJ July 2021](https://xaur.github.io/decred-news/journal/202107.html)|[Spanish](https://medium.com/decred-es/revista-decred-julio-2021-6961b11bc856)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/translations/blob/master/decredJournal/2021/07/index.md) completed 2021-08-26
+2021-08-22|[Treasury Expenditure Policy Bug](https://blog.decred.org/2021/06/25/Treasury-Expenditure-Policy-Bug/)|[Spanish](https://medium.com/decred-es/bug-en-política-de-los-gastos-de-la-tesorería-557feaf8672c)|@francov_|[src](https://github.com/DecredES/translations/blob/master/articles/treasury-expenditure-policy-bug/index.md)
+2021-08-20|[DJ July 2021](https://xaur.github.io/decred-news/journal/202107.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202107.html)|@arij, @abdulrahman4|
+2021-08-13|[DJ July 2021](https://xaur.github.io/decred-news/journal/202107.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202107_DecredJournalCN.md)|@Dominic|
 2021-08-03|[DJ June 2021](https://xaur.github.io/decred-news/journal/202106.html)|[Spanish](https://medium.com/decred-es/revista-decred-junio-2021-e7a792cc1b4d)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/translations/blob/master/decredJournal/2021/06/index.md) completed 2021-08-05
 2021-07-29|[DJ June 2021](https://xaur.github.io/decred-news/journal/202106.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202106.html)|@arij, @abdulrahman4|
 2021-07-17|[DJ June 2021](https://xaur.github.io/decred-news/journal/202106.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202106_DecredJournalCN.md)|@Dominic|
