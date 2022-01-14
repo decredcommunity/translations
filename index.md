@@ -1,5 +1,7 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2021-12-24|[DJ November 2021](https://xaur.github.io/decred-news/journal/202111.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202111.html)|@arij, @abdulrahman4|
+2021-12-20|[DJ November 2021](https://xaur.github.io/decred-news/journal/202111.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202111_DecredJournalCN.md)|@Dominic|
 2021-11-30|[DJ October 2021](https://xaur.github.io/decred-news/journal/202110.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202110.html)|@arij, @abdulrahman4|
 2021-11-29|[DJ October 2021](https://xaur.github.io/decred-news/journal/202110.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202110_DecredJournalCN.md)|@Dominic|
 2021-11-20|[DJ October 2021](https://xaur.github.io/decred-news/journal/202110.html)|[Spanish](https://medium.com/decred-es/revista-decred-octubre-2021-6ab4f0cba9e1)|@francov_|partial, full version w/ dev [here](https://github.com/DecredES/translations/blob/master/decredJournal/2021/10/index.md) completed 2021-12-11
