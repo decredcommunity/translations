@@ -1,5 +1,6 @@
 translated|original title|to language|translator|note
 -|-|-|-|-
+2022-07-19|[DJ June 2022](https://xaur.github.io/decred-news/journal/202206.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202206_DecredJournalCN.md)|@Dominic|
 2022-06-30|[DJ April 2022](https://xaur.github.io/decred-news/journal/202204.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202204.html)|@arij|
 2022-06-25|[DJ May 2022](https://xaur.github.io/decred-news/journal/202205.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202205_DecredJournalCN.md)|@Dominic|
 2022-05-19|[DJ April 2022](https://xaur.github.io/decred-news/journal/202204.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202204_DecredJournalCN.md)|@Dominic|
