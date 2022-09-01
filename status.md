@@ -5,21 +5,7 @@ updated: 2022-09-01
 
 # Decred Translation Status
 
-This page tracks the status of Decred translations that require continuous maintenance, primarily **software**. For a list of completed one-off *article translations* please see [the index](index.md).
-
-Users of this page:
-
-- **Managers**: you can overview which translations are up-to-date, which are lagging, and who to contact to update a translation or create a new one.
-- **Translators**: you can see where work is required, whether it is funded, and who to contact to get started.
-
-Columns:
-
-- `Release` - Last release the translation was updated for (and included in).
-- `Merged` - When last translation update was merged into a release branch. `~date` means the change is UNMERGED yet.
-- `Changes` - Pull requests or commits that last updated the translation.
-- `Translators` - Contributors to recent translation updates.
-
-For any questions please join the Matrix [#translations](https://chat.decred.org/#/room/#translations:decred.org) room.
+This page tracks the status of Decred translations that require continuous maintenance, primarily **software**. [About](#about) section at the end explains how to use this page. For a list of completed one-off *article translations* please see [the index](index.md).
 
 
 ## Decrediton
@@ -42,7 +28,7 @@ For any questions please join the Matrix [#translations](https://chat.decred.org
 | French (Advanced)        | v1.4.0     | 2018-12-11 | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ }
 | French (Basic)           | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
 | French (Advanced)        | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
-| German (Basic)           | v1.6.0     | 2021-01-04 | [#3089](https://github.com/decred/decrediton/pull/3089) | { _karamble?_} |
+| German (Basic)           | v1.6.0     | 2021-01-04 | [#3089](https://github.com/decred/decrediton/pull/3089) | { _karamble?_ } |
 | German (Advanced)        | v1.6.0     | 2020-12-15 | [#3088](https://github.com/decred/decrediton/pull/3088) | karamble |
 | German (Basic)           | UNMERGED   | 2022-08-25 | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
 | Greek (Basic)            | UNMERGED   | ~2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
@@ -51,10 +37,10 @@ For any questions please join the Matrix [#translations](https://chat.decred.org
 | Italian (Advanced)       | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | teknico, karamble |
 | Japanese (Basic)         | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _who?_ } |
 | Japanese (Advanced)      | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _who?_ } |
-| Polish (Basic)           | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _kozel?_} |
-| Polish (Advanced)        | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _kozel?_} |
-| Portuguese BR (Basic)    | v1.7.0-rc1 | 2022-01-03 | [#3619](https://github.com/decred/decrediton/pull/3619) | matheusd, { _others?_} |
-| Portuguese BR (Advanced) | v1.7.0-rc1 | 2022-01-03 | [#3619](https://github.com/decred/decrediton/pull/3619) | matheusd, { _others?_} |
+| Polish (Basic)           | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _kozel?_ } |
+| Polish (Advanced)        | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _kozel?_ } |
+| Portuguese BR (Basic)    | v1.7.0-rc1 | 2022-01-03 | [#3619](https://github.com/decred/decrediton/pull/3619) | matheusd, { _others?_ } |
+| Portuguese BR (Advanced) | v1.7.0-rc1 | 2022-01-03 | [#3619](https://github.com/decred/decrediton/pull/3619) | matheusd, { _others?_ } |
 | Spanish (Basic)          | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _francov\_?_ } |
 | Spanish (Advanced)       | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _francov\_?_ } |
 
@@ -62,12 +48,12 @@ Historical translators:
 
 - Chinese - guang ([Guang168](https://github.com/Guang168), till v1.4.0)
 - French - { _who? (till ?)_ }
-- German - { _who? (till ?)_}
+- German - { _who? (till ?)_ }
 - Italian - { _karamble (till v1.6.0)?_ }
-- Japanese - { _who? (till ?)_}
-- Polish - { _who? (till ?)_}
-- Portuguese BR - { _who? (till ?)_}
-- Spanish - { _who? (till ?)_}
+- Japanese - { _who? (till ?)_ }
+- Polish - { _who? (till ?)_ }
+- Portuguese BR - { _who? (till ?)_ }
+- Spanish - { _who? (till ?)_ }
 
 
 ## DCRDEX
@@ -143,3 +129,20 @@ Historical translators:
 |          |         |        |         |             |
 
 { TODO }
+
+
+## About
+
+Users of this page:
+
+- **Managers**: you can overview which translations are up-to-date, which are lagging, and who to contact to update a translation or create a new one.
+- **Translators**: you can see where work is required, whether it is funded, and who to contact to get started.
+
+Columns:
+
+- `Release` - Last release the translation was updated for (and included in).
+- `Merged` - When last translation update was merged into a release branch. `~date` means the change is UNMERGED yet.
+- `Changes` - Pull requests or commits that last updated the translation.
+- `Translators` - Contributors to recent translation updates.
+
+For any questions please join the Matrix [#translations](https://chat.decred.org/#/room/#translations:decred.org) room.
