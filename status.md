@@ -16,8 +16,8 @@ This page tracks the status of Decred translations that require continuous maint
 
 | Language (Level)         | Release    | Merged     | Changes | Translators |
 |--------------------------|------------|------------|---------|-------------|
-| English (Basic)          | **v1.7.2** | 2022-05-09 | [#3731](https://github.com/decred/decrediton/pull/3731), e3a68be | N/A |
-| English (Advanced)       | **v1.7.4** | 2022-08-01 | [#3779](https://github.com/decred/decrediton/pull/3779), 3782957 | N/A |
+| English (Basic)          | v1.7.0-rc1 | 2021-12-23 | [#3731](https://github.com/decred/decrediton/pull/3618) | `original.json` last regen \* |
+| English (Advanced)       | v1.7.4     | 2022-08-01 | [#3779](https://github.com/decred/decrediton/pull/3779), 3782957 | N/A |
 | Arabic (Basic)           | v1.7.0-rc1 | 2022-01-04 | [#3632](https://github.com/decred/decrediton/pull/3632) | arij, abdulrahman4 |
 | Arabic (Advanced)        | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _arij?_ } |
 | Chinese CN (Basic)       | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _Dominic?_ } |
@@ -26,11 +26,11 @@ This page tracks the status of Decred translations that require continuous maint
 | Chinese HK (Advanced)    | v1.6.1     | 2021-02-22 | [#3086](https://github.com/decred/decrediton/pull/3086), 8d3b9b2 | smartwojak |
 | French (Basic)           | v1.4.0     | 2018-12-11 | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ }
 | French (Advanced)        | v1.4.0     | 2018-12-11 | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ }
-| French (Basic)           | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
-| French (Advanced)        | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
+| French (Basic)           | UNMERGED   | ~2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
+| French (Advanced)        | UNMERGED   | ~2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
 | German (Basic)           | v1.6.0     | 2021-01-04 | [#3089](https://github.com/decred/decrediton/pull/3089) | { _karamble?_ } |
 | German (Advanced)        | v1.6.0     | 2020-12-15 | [#3088](https://github.com/decred/decrediton/pull/3088) | karamble |
-| German (Basic)           | UNMERGED   | 2022-08-25 | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
+| German (Basic)           | UNMERGED   | ~2022-08-25 | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
 | Greek (Basic)            | UNMERGED   | ~2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
 | Greek (Advanced)         | UNMERGED   | ~2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
 | Italian (Basic)          | v1.7.0-rc2 | 2022-01-18 | [#3659](https://github.com/decred/decrediton/pull/3659), 28c6f61 | teknico, karamble |
@@ -43,6 +43,8 @@ This page tracks the status of Decred translations that require continuous maint
 | Portuguese BR (Advanced) | v1.7.0-rc1 | 2022-01-03 | [#3619](https://github.com/decred/decrediton/pull/3619) | matheusd, { _others?_ } |
 | Spanish (Basic)          | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _francov\_?_ } |
 | Spanish (Advanced)       | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _francov\_?_ } |
+
+\* "Basic" translations are based on English strings in [`original.json`](https://github.com/decred/decrediton/blob/master/app/i18n/translations/original.json). This file is not the master source of truth, it must be **regenerated** from React sources to get the latest English strings. "Advanced" translations are based on files in the [`docs`](https://github.com/decred/decrediton/tree/master/app/i18n/docs) directory and don't need the regeneration step.
 
 Historical translators:
 
@@ -65,10 +67,12 @@ Historical translators:
 | Language      | Release    | Merged     | Changes | Translators |
 |---------------|------------|------------|---------|-------------|
 | English US    | v0.5.0-rc1 | 2022-07-22 | f541ead, 3d7e73d, 9a7c21e | N/A |
-| Chinese CN    | v0.4.0-rc1 | 2021-09-27 | de1d00e | Dominic     |
-| German        | v0.5.3 TBR | 2022-08-30 | d8c6ce3 | karamble    |
-| Polish        | v0.5.0-rc1 | 2022-01-25 | 8789160, 1b8e473, a808253 | kozel |
-| Portuguese BR | v0.5.0-rc1\* | 2022-01-13\* | 956a5c6 | vctt, \* Notifications outdated? Last for v0.4.0-rc1 in de0f679 on 2021-09-20 |
+| Chinese CN    | v0.4.0-rc1 | 2021-09-27 | [#1207](https://github.com/decred/dcrdex/pull/1207) | Dominic |
+| German        | v0.5.3 TBR | ~2022-08-30 | [#1815](https://github.com/decred/dcrdex/pull/1815), [#1831](https://github.com/decred/dcrdex/pull/1831) | karamble |
+| Polish        | v0.4.1     | 2022-02-03 | [#1422](https://github.com/decred/dcrdex/pull/1422), cf3dbf4, bc7cff8, 069d6de | kozel |
+| Portuguese BR | v0.4.0-rc3\* | 2022-01-18 | [#1405](https://github.com/decred/dcrdex/pull/1405), 1e2fc06 | vctt |
+
+\* Notifications last translated in [#1195](https://github.com/decred/dcrdex/pull/1185) (2021-09-20), preceding v0.4.0-rc1.
 
 
 ## decred.org
@@ -140,9 +144,9 @@ Users of this page:
 
 Columns:
 
-- `Release` - Last release the translation was updated for (and included in).
+- `Release` - Earliest release the translation was updated for (and included in).
 - `Merged` - When last translation update was merged into a release branch. `~date` means the change is UNMERGED yet.
-- `Changes` - Pull requests or commits that last updated the translation.
+- `Changes` - Pull requests or commits that last updated the translation (in both master and release branches).
 - `Translators` - Contributors to recent translation updates.
 
 For any questions please join the Matrix [#translations](https://chat.decred.org/#/room/#translations:decred.org) room.
