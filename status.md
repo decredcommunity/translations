@@ -18,7 +18,7 @@ This page tracks the status of Decred translations that require continuous maint
 
 | Language (Level)         | Release    | Merged     | Changes | Translators |
 |--------------------------|------------|------------|---------|-------------|
-| English (Basic)          | v1.7.0-rc1 | 2021-12-23 | [#3731](https://github.com/decred/decrediton/pull/3618) | `original.json` last regen \* |
+| English (Basic)          | v1.7.0-rc1 | 2021-12-23 | [#3618](https://github.com/decred/decrediton/pull/3618) | `original.json` last regen \* |
 | English (Advanced)       | v1.7.4     | 2022-08-01 | [#3779](https://github.com/decred/decrediton/pull/3779), 3782957 | N/A |
 | Arabic (Basic)           | v1.7.0-rc1 | 2022-01-04 | [#3632](https://github.com/decred/decrediton/pull/3632) | arij, abdulrahman4 |
 | Arabic (Advanced)        | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _arij?_ } |
@@ -30,9 +30,8 @@ This page tracks the status of Decred translations that require continuous maint
 | French (Advanced)        | v1.4.0     | 2018-12-11 | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ }
 | French (Basic)           | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
 | French (Advanced)        | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
-| German (Basic)           | v1.6.0     | 2021-01-04 | [#3089](https://github.com/decred/decrediton/pull/3089) | { _karamble?_ } |
+| German (Basic)           | v1.7.5 TBR | 2022-09-07 | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
 | German (Advanced)        | v1.6.0     | 2020-12-15 | [#3088](https://github.com/decred/decrediton/pull/3088) | karamble |
-| German (Basic)           | UNMERGED   | 2022-08-25 | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
 | Greek (Basic)            | UNMERGED   | 2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
 | Greek (Advanced)         | UNMERGED   | 2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
 | Italian (Basic)          | v1.7.0-rc2 | 2022-01-18 | [#3659](https://github.com/decred/decrediton/pull/3659), 28c6f61 | teknico, karamble |
@@ -145,7 +144,7 @@ Users of this page:
 
 Columns:
 
-- `Release` - Earliest release the translation was updated for (and included in). `UNMERGED` means it is not merged yet (waiting for a review or for the maintainer to merge).
+- `Release` - Earliest release the translation was updated for (and included in). `UNMERGED` means it is not merged yet (waiting for a review or for the maintainer to merge). `v1.7.5 TBR` means "v1.7.5 To Be Relesed", i.e. it is merged but not released yet.
 - `Merged` - When last translation update was merged into a release branch. If `Release` column says `UNMERGED` then it is the last updated date.
 - `Changes` - Pull requests or commits that last updated the translation (in both master and release branches).
 - `Translators` - Contributors to recent translation updates.
