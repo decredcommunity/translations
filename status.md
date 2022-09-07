@@ -1,9 +1,11 @@
 ---
 author: bee
-updated: 2022-09-01
+updated: 2022-09-07
 ---
 
 # Decred Translation Status
+
+_Updated: 2022-09-07_
 
 This page tracks the status of Decred translations that require continuous maintenance, primarily **software**. [About](#about) section at the end explains how to use this page. For a list of completed one-off *article translations* please see [the index](index.md).
 
@@ -26,13 +28,13 @@ This page tracks the status of Decred translations that require continuous maint
 | Chinese HK (Advanced)    | v1.6.1     | 2021-02-22 | [#3086](https://github.com/decred/decrediton/pull/3086), 8d3b9b2 | smartwojak |
 | French (Basic)           | v1.4.0     | 2018-12-11 | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ }
 | French (Advanced)        | v1.4.0     | 2018-12-11 | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ }
-| French (Basic)           | UNMERGED   | ~2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
-| French (Advanced)        | UNMERGED   | ~2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
+| French (Basic)           | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
+| French (Advanced)        | UNMERGED   | 2022-01-08 | [#3654](https://github.com/decred/decrediton/pull/3654) | jp, NEEDS REVIEW |
 | German (Basic)           | v1.6.0     | 2021-01-04 | [#3089](https://github.com/decred/decrediton/pull/3089) | { _karamble?_ } |
 | German (Advanced)        | v1.6.0     | 2020-12-15 | [#3088](https://github.com/decred/decrediton/pull/3088) | karamble |
-| German (Basic)           | UNMERGED   | ~2022-08-25 | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
-| Greek (Basic)            | UNMERGED   | ~2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
-| Greek (Advanced)         | UNMERGED   | ~2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
+| German (Basic)           | UNMERGED   | 2022-08-25 | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
+| Greek (Basic)            | UNMERGED   | 2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
+| Greek (Advanced)         | UNMERGED   | 2022-03-08 | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6), NEEDS REVIEW |
 | Italian (Basic)          | v1.7.0-rc2 | 2022-01-18 | [#3659](https://github.com/decred/decrediton/pull/3659), 28c6f61 | teknico, karamble |
 | Italian (Advanced)       | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | teknico, karamble |
 | Japanese (Basic)         | v1.6.0     | 2020-12-14 | [#3052](https://github.com/decred/decrediton/pull/3052) | { _who?_ } |
@@ -68,7 +70,7 @@ Historical translators:
 |---------------|------------|------------|---------|-------------|
 | English US    | v0.5.0-rc1 | 2022-07-22 | f541ead, 3d7e73d, 9a7c21e | N/A |
 | Chinese CN    | v0.4.0-rc1 | 2021-09-27 | [#1207](https://github.com/decred/dcrdex/pull/1207) | Dominic |
-| German        | v0.5.3 TBR | ~2022-08-30 | [#1815](https://github.com/decred/dcrdex/pull/1815), [#1831](https://github.com/decred/dcrdex/pull/1831) | karamble |
+| German        | v0.5.3 TBR | 2022-08-30 | [#1815](https://github.com/decred/dcrdex/pull/1815), [#1831](https://github.com/decred/dcrdex/pull/1831) | karamble |
 | Polish        | v0.4.1     | 2022-02-03 | [#1422](https://github.com/decred/dcrdex/pull/1422), cf3dbf4, bc7cff8, 069d6de | kozel |
 | Portuguese BR | v0.4.0-rc3\* | 2022-01-18 | [#1405](https://github.com/decred/dcrdex/pull/1405), 1e2fc06 | vctt |
 
@@ -78,19 +80,18 @@ Historical translators:
 ## decred.org
 
 - decred.org translations are **funded** via the [D.R.E.A.M. 2](https://proposals.decred.org/record/5ef57f7) proposal until 2022-11-30. Contact @jholdstock on Matrix for the details.
-- Translating guide: { TODO }
-- Files to translate: { TODO }
+- [Translating guide](https://matrix.to/#/!qYctNXtSHVuWpHwZrK:decred.org/$TrCDyiz_HhmvmO1hv3QrPmDrlzwsL9lfy3KW29gpJ7M?via=decred.org&via=matrix.org) { _TODO please move from chat to a proper Markdown file in the repo_ }
+- Files to translate: [transifex_catalogs](https://github.com/decred/dcrweb/tree/master/transifex_catalogs). { _Note: old directory name, Transifex is not used anymore_ }
 
-| Language      | Release | Merged | Changes | Translators |
-|---------------|---------|--------|---------|-------------|
-| English       |         |        |         |             |
-| Arabic        |         |        |         |             |
-| Chinese CN    |         |        |         |             |
-| German        |         |        |         |             |
-| Portuguese BR |         |        |         |             |
-| Spanish       |         |        |         |             |
-
-{ TODO }
+| Language      | Release | Merged     | Changes | Translators |
+|---------------|---------|------------|---------|-------------|
+| English       |         | 2022-09-03 | [#1058](https://github.com/decred/dcrweb/pull/1058) | |
+| Arabic        |         | 2022-09-07 | [#1068](https://github.com/decred/dcrweb/pull/1068) | arij |
+| Chinese CN    |         | 2022-09-06 | [#1067](https://github.com/decred/dcrweb/pull/1067) | Dominic |
+| German        |         | 2022-09-07 | [#1069](https://github.com/decred/dcrweb/pull/1069) | karamble |
+| Polish        |         | 2022-09-07 | [#1070](https://github.com/decred/dcrweb/pull/1070) | kozel |
+| Portuguese BR |         |            |         |             |
+| Spanish       |         |            |         |             |
 
 
 ## Android Wallet
@@ -144,8 +145,8 @@ Users of this page:
 
 Columns:
 
-- `Release` - Earliest release the translation was updated for (and included in).
-- `Merged` - When last translation update was merged into a release branch. `~date` means the change is UNMERGED yet.
+- `Release` - Earliest release the translation was updated for (and included in). `UNMERGED` means it is not merged yet (waiting for a review or for the maintainer to merge).
+- `Merged` - When last translation update was merged into a release branch. If `Release` column says `UNMERGED` then it is the last updated date.
 - `Changes` - Pull requests or commits that last updated the translation (in both master and release branches).
 - `Translators` - Contributors to recent translation updates.
 
