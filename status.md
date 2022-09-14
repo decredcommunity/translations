@@ -79,7 +79,7 @@ Historical translators:
 ## decred.org
 
 - decred.org translations are **funded** via the [D.R.E.A.M. 2](https://proposals.decred.org/record/5ef57f7) proposal until 2022-11-30. Contact @jholdstock on Matrix for the details.
-- [Translating guide](https://matrix.to/#/!qYctNXtSHVuWpHwZrK:decred.org/$TrCDyiz_HhmvmO1hv3QrPmDrlzwsL9lfy3KW29gpJ7M?via=decred.org&via=matrix.org) { _TODO please move from chat to a proper Markdown file in the repo_ }
+- [Translating guide](https://github.com/decred/dcrweb/tree/master/transifex_catalogs#readme)
 - Files to translate: [transifex_catalogs](https://github.com/decred/dcrweb/tree/master/transifex_catalogs). { _Note: old directory name, Transifex is not used anymore_ }
 
 | Language      | Release | Merged     | Changes | Translators |
