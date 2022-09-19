@@ -1,11 +1,11 @@
 ---
 author: bee
-updated: 2022-09-07
+updated: 2022-09-19
 ---
 
 # Decred Translation Status
 
-_Updated: 2022-09-07_
+_Updated: 2022-09-19_
 
 This page tracks the status of Decred translations that require continuous maintenance, primarily **software**. [About](#about) section at the end explains how to use this page. For a list of completed one-off *article translations* please see [the index](index.md).
 
@@ -85,10 +85,10 @@ Historical translators:
 | Language      | Release | Merged     | Changes | Translators |
 |---------------|---------|------------|---------|-------------|
 | English       |         | 2022-09-03 | [#1058](https://github.com/decred/dcrweb/pull/1058) | |
-| Arabic        |         | 2022-09-07 | [#1068](https://github.com/decred/dcrweb/pull/1068) | arij |
+| Arabic        |         | 2022-09-15 | [#1072](https://github.com/decred/dcrweb/pull/1072) | arij |
 | Chinese CN    |         | 2022-09-06 | [#1067](https://github.com/decred/dcrweb/pull/1067) | Dominic |
-| German        |         | 2022-09-07 | [#1069](https://github.com/decred/dcrweb/pull/1069) | karamble |
-| Polish        |         | 2022-09-07 | [#1070](https://github.com/decred/dcrweb/pull/1070) | kozel |
+| German        |         | 2022-09-15 | [#1072](https://github.com/decred/dcrweb/pull/1072) | karamble |
+| Polish        |         | 2022-09-15 | [#1072](https://github.com/decred/dcrweb/pull/1072) | kozel |
 | Portuguese BR |         |            |         |             |
 | Spanish       |         |            |         |             |
 
