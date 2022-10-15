@@ -1,12 +1,16 @@
 # Decred Content Translations
 
-_Updated: 2022-09-14_
+_Updated: 2022-10-15_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
-2022-08-28|[DJ June 2022](https://xaur.github.io/decred-news/journal/202206.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202206.html)|@arij|
+2022-09-30|[DJ August 2022](https://xaur.github.io/decred-news/journal/202208.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202208_DecredJournalPL.md)|@kozel|
+2022-09-25|[DJ July 2022](https://xaur.github.io/decred-news/journal/202207.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202207.html)|@arij, @abdulrahman4|
+2022-09-20|[DJ August 2022](https://xaur.github.io/decred-news/journal/202208.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202208_DecredJournalCN.md)|@Dominic|
+2022-09-01|[DJ July 2022](https://xaur.github.io/decred-news/journal/202207.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202207_DecredJournalPL.md)|@kozel|
+2022-08-28|[DJ June 2022](https://xaur.github.io/decred-news/journal/202206.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202206.html)|@arij, @abdulrahman4|
 2022-08-22|[DJ July 2022](https://xaur.github.io/decred-news/journal/202207.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202207_DecredJournalCN.md)|@Dominic|
-2022-08-18|[DJ May 2022](https://xaur.github.io/decred-news/journal/202205.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202205.html)|@arij|
+2022-08-18|[DJ May 2022](https://xaur.github.io/decred-news/journal/202205.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202205.html)|@arij, @abdulrahman4|
 2022-08-04|[DJ June 2022](https://xaur.github.io/decred-news/journal/202206.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202206_DecredJournalPL.md)|@kozel|
 2022-08-04|[DJ May 2022](https://xaur.github.io/decred-news/journal/202205.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202205_DecredJournalPL.md)|@kozel|
 2022-08-04|[DJ April 2022](https://xaur.github.io/decred-news/journal/202204.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202204_DecredJournalPL.md)|@kozel|
