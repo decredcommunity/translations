@@ -1,3 +1,9 @@
+---
+author: teknico
+created_utc: 2022-01-10
+updated_utc: 2022-01-13
+---
+
 # Translate Decred to Italian
 
 A reference to translate the Decred software and docs to the Italian language.
