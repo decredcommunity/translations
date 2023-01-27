@@ -1,4 +1,10 @@
-# Decred Translation
+---
+author: jp
+created_utc: 2022-01-08
+updated_utc: 2022-01-08
+---
+
+# Decred Translation to French
 
 This document aims to serve as a reference to translate Decred software to french.
 It contains key translation resources that can be used for translation activity and contains translation of most commons technical terms encountered.
