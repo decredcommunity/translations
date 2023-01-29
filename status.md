@@ -16,8 +16,10 @@ This page tracks the status of Decred translations that require continuous maint
 
 | Language (Level)         | Release    | EN base \[2\] | Changes | Translators and notes |
 |--------------------------|------------|---------------|---------|-----------------------|
-| English original.json \[1\] | v1.7.5     | [2022-10-12](https://github.com/decred/decrediton/commit/72ade34059391e716675c406712168df17a21b7a) | 72ade34 | |
-| English original.json \[1\] | master     | [2022-10-10](https://github.com/decred/decrediton/commit/b6dd4b9f32b5b44a6ec06084984b03fccc9bd6dd) | [#3807](https://github.com/decred/decrediton/pull/3807) | |
+| English original.json \[1\] | v1.7.5     | [2022-10-12](https://github.com/decred/decrediton/commit/72ade34059391e716675c406712168df17a21b7a) | 72ade34 | Last regen of *intermediary* EN Basic file |
+| English original.json \[1\] | master     | [2022-10-10](https://github.com/decred/decrediton/commit/b6dd4b9f32b5b44a6ec06084984b03fccc9bd6dd) | [#3807](https://github.com/decred/decrediton/pull/3807) | Last regen of *intermediary* EN Basic file |
+| English (Basic)          | v1.7.5     | [2022-10-12](https://github.com/decred/decrediton/commit/009c9da23a67589ae1c4d27371adeb26ecd4635a) | [#3791](https://github.com/decred/decrediton/pull/3791) | Last change of *real originals* of EN Basic |
+| English (Basic)          | master     | [2022-09-07](https://github.com/decred/decrediton/commit/78a6a3bd864509dceff2e33c4aa6bbb45a89af1c) | [#3791](https://github.com/decred/decrediton/pull/3791) | Last change of *real originals* of EN Basic |
 | English (Advanced)       | v1.7.4     | [2022-08-01](https://github.com/decred/decrediton/commit/37829575d8eac147b076cef9c798fa04359b9353) | 3782957 | |
 | English (Advanced)       | master     | [2022-08-01](https://github.com/decred/decrediton/commit/76cb05b77abf353329253df358444fd930896a9a) | [#3779](https://github.com/decred/decrediton/pull/3779) | |
 | Arabic (Basic)           | v1.7.0-rc1, m | [2021-10-14](https://github.com/decred/decrediton/commit/e2bfe00500c7f21b5b2b8b56713ffe8223999eee) | [#3632](https://github.com/decred/decrediton/pull/3632) | arij, abdulrahman4 |
