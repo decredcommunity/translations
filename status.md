@@ -25,21 +25,21 @@ This page tracks the status of Decred translations that require continuous maint
 | Arabic (Basic)           | v1.7.0-rc1, m | [2021-10-14](https://github.com/decred/decrediton/commit/e2bfe00500c7f21b5b2b8b56713ffe8223999eee) | [#3632](https://github.com/decred/decrediton/pull/3632) | arij, abdulrahman4 |
 | Arabic (Advanced)        | v1.6.0, m  | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _arij? Transifex?_ } |
 | Chinese CN (Basic)       | v1.6.0, m  | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _Dominic? Transifex?_ } |
-| Chinese CN (Basic)       | m:UNMERGED | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3813](https://github.com/decred/decrediton/pull/3813) | Dominic |
+| Chinese CN (Basic)       | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3813](https://github.com/decred/decrediton/pull/3813) | **UNMERGED**, Dominic |
 | Chinese CN (Advanced)    | v1.6.0, m  | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _Dominic?_ } |
 | Chinese HK (Basic)       | v1.6.1     | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | 8d3b9b2 | smartwojak, based on .po |
 | Chinese HK (Basic)       | master     | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | [#3086](https://github.com/decred/decrediton/pull/3086) | smartwojak, based on .po |
 | Chinese HK (Advanced)    | v1.6.1     | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | [#3086](https://github.com/decred/decrediton/pull/3086) | 8d3b9b2 | smartwojak |
 | Chinese HK (Advanced)    | master     | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | [#3086](https://github.com/decred/decrediton/pull/3086) | smartwojak |
 | French (Basic)           | v1.4.0, m  | [2018-12-11](https://github.com/decred/decrediton/commit/d5f68b365e2353e719e89e07bc5b509e42f5116c) | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ } |
-| French (Basic)           | m:UNMERGED | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3654](https://github.com/decred/decrediton/pull/3654) | jp; **Needs review** |
+| French (Basic)           | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3654](https://github.com/decred/decrediton/pull/3654) | **UNMERGED, needs review**, jp |
 | French (Advanced)        | v1.4.0, m  | [2018-12-11](https://github.com/decred/decrediton/commit/d5f68b365e2353e719e89e07bc5b509e42f5116c) | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ } |
-| French (Advanced)        | m:UNMERGED | [2022-01-07](https://github.com/decred/decrediton/commit/2fe22577aea0c71e4183bc0322f49a8687d35da5) | [#3654](https://github.com/decred/decrediton/pull/3654) | jp; **Needs review** |
+| French (Advanced)        | master     | [2022-01-07](https://github.com/decred/decrediton/commit/2fe22577aea0c71e4183bc0322f49a8687d35da5) | [#3654](https://github.com/decred/decrediton/pull/3654) | **UNMERGED, needs review**, jp |
 | German (Basic)           | v1.7.5     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | b96b7a6 | karamble |
 | German (Basic)           | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
 | German (Advanced)        | v1.6.0, m  | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | [#3088](https://github.com/decred/decrediton/pull/3088) | karamble |
-| Greek (Basic)            | m:UNMERGED | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6); **Needs review** |
-| Greek (Advanced)         | m:UNMERGED | [2022-03-08](https://github.com/decred/decrediton/commit/ee04c5d79dafd9323a2945d0fc8eda8b896248e9) | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6); **Needs review** |
+| Greek (Basic)            | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3719](https://github.com/decred/decrediton/pull/3719) | **UNMERGED, needs review**, [Xk9eboF6](https://github.com/Xk9eboF6) |
+| Greek (Advanced)         | master     | [2022-03-08](https://github.com/decred/decrediton/commit/ee04c5d79dafd9323a2945d0fc8eda8b896248e9) | [#3719](https://github.com/decred/decrediton/pull/3719) | **UNMERGED, needs review**, [Xk9eboF6](https://github.com/Xk9eboF6) |
 | Italian (Basic)          | v1.7.0-rc2 | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | 28c6f61 | teknico, karamble |
 | Italian (Basic)          | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3659](https://github.com/decred/decrediton/pull/3659) | teknico, karamble |
 | Italian (Advanced)       | v1.6.0, m  | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | teknico, karamble |
@@ -169,7 +169,6 @@ Columns:
 
 - `Release`
   - Earliest release the translation was updated for (and included in).
-  - `UNMERGED` means it is not merged yet (waiting for a review or for the maintainer to merge).
   - `v1.7.5 TBR` means "v1.7.5 To Be Relesed", i.e. it is merged but not released yet.
   - Note that `v1.7.5` in `Release` column does *not* mean all strings in `v1.7.5` are correctly translated! It means that *some* translation made it into `v1.7.5`.
   - `m` is a short for `master`.
@@ -178,7 +177,8 @@ Columns:
   - Version of original English strings that was translated. It shows how possibly outdated the translation is. For example, `Language = Polish, EN base = 2022-01-01` means that Polish translation is based on English strings of 2022-01-01. If today is 2023-01-01, it means the translation may be 1 year behind the English originals (*if* English strings have changed since last translation).
 - `Changes`
   - Pull requests or commits that last updated the translation (in master or release branches).
-- `Translators`
+- `Translators and notes`
   - Contributors to recent translation updates.
+  - `UNMERGED` means it is not merged yet (waiting for a review or for the maintainer to merge).
 
 For any questions please join the Matrix [#translations](https://chat.decred.org/#/room/#translations:decred.org) room.
