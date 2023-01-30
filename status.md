@@ -9,23 +9,25 @@ This page tracks Decred translations that require continuous maintenance, primar
 
 ## Decrediton
 
-- Decrediton translations are **funded** via the [Translations phase 3 proposal](https://proposals.decred.org/record/7057e0b) until 2022-12-31. [Contact](#contact) @kozel on Matrix for the details.
+_Status as of: 2023-01-30_
+
+- Decrediton translations were last funded via the [Translations phase 3 proposal](https://proposals.decred.org/record/7057e0b) until 2022-12-31. Work since 2023-01-01 has **no funding yet** but it will if the renewal [Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f) passes. [Contact](#contact) @kozel on Matrix for the details.
 - Read the [Translating Guide](https://github.com/decred/decrediton/blob/master/app/i18n/community_translators.md) and [contact](#contact) @matheusd on Matrix for more detais.
 - Files to translate: [Basic level](https://github.com/decred/decrediton/tree/master/app/i18n/translations), [Advanced level](https://github.com/decred/decrediton/tree/master/app/i18n/docs).
 - **Beware**: Basic level translations use English `original.json` file which **may be outdated**! See note \[1\] below. Ask repository maintainers if it's latest and safe to work with.
-
-_Status as of: 2022-10-14_
 
 | Language (Level)         | Release    | EN base \[2\] | Changes | Translators and notes |
 |--------------------------|------------|---------------|---------|-----------------------|
 | English original.json    | v1.7.5     | [2022-10-12](https://github.com/decred/decrediton/commit/72ade34059391e716675c406712168df17a21b7a) | 72ade34 | Last regen of *intermediary* EN Basic file \[1\] |
 | English original.json    | master     | [2022-10-10](https://github.com/decred/decrediton/commit/b6dd4b9f32b5b44a6ec06084984b03fccc9bd6dd) | [#3807](https://github.com/decred/decrediton/pull/3807) | Last regen of *intermediary* EN Basic file \[1\] |
 | English (Basic)          | v1.7.5     | [2022-10-12](https://github.com/decred/decrediton/commit/009c9da23a67589ae1c4d27371adeb26ecd4635a) | [#3791](https://github.com/decred/decrediton/pull/3791) | Last change of *real originals* of EN Basic \[1\] |
-| English (Basic)          | master     | [2022-09-07](https://github.com/decred/decrediton/commit/78a6a3bd864509dceff2e33c4aa6bbb45a89af1c) | [#3791](https://github.com/decred/decrediton/pull/3791) | Last change of *real originals* of EN Basic \[1\] |
+| English (Basic)          | master     | [2022-12-08](https://github.com/decred/decrediton/commit/36cfc3ff04cd702e806acb3855705d886a35870a) | [#3787](https://github.com/decred/decrediton/pull/3787) | Last change of *real originals* of EN Basic \[1\] |
 | English (Advanced)       | v1.7.4     | [2022-08-01](https://github.com/decred/decrediton/commit/37829575d8eac147b076cef9c798fa04359b9353) | 3782957 | |
-| English (Advanced)       | master     | [2022-08-01](https://github.com/decred/decrediton/commit/76cb05b77abf353329253df358444fd930896a9a) | [#3779](https://github.com/decred/decrediton/pull/3779) | |
+| English (Advanced)       | master     | [2022-11-21](https://github.com/decred/decrediton/commit/c2d3ebbcb3c6437a9d59e097860a403ce754ee68) | [#3808](https://github.com/decred/decrediton/pull/3808) | |
 | Arabic (Basic)           | v1.7.0-rc1,<br>master | [2021-10-14](https://github.com/decred/decrediton/commit/e2bfe00500c7f21b5b2b8b56713ffe8223999eee) | [#3632](https://github.com/decred/decrediton/pull/3632) | arij, abdulrahman4 |
+| Arabic (Basic)           | master       | [2022-10-10](https://github.com/decred/decrediton/commit/b6dd4b9f32b5b44a6ec06084984b03fccc9bd6dd) | [#3847](https://github.com/decred/decrediton/pull/3847) | **UNMERGED**, arij, abdulrahman4 |
 | Arabic (Advanced)        | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _arij? Transifex?_ } |
+| Arabic (Advanced)        | master       | [2022-10-10](https://github.com/decred/decrediton/commit/b6dd4b9f32b5b44a6ec06084984b03fccc9bd6dd) | [#3847](https://github.com/decred/decrediton/pull/3847) | **UNMERGED**, arij, abdulrahman4 |
 | Chinese CN (Basic)       | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _Dominic? Transifex?_ } |
 | Chinese CN (Basic)       | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3813](https://github.com/decred/decrediton/pull/3813) | **UNMERGED**, Dominic |
 | Chinese CN (Advanced)    | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _Dominic?_ } |
@@ -34,20 +36,21 @@ _Status as of: 2022-10-14_
 | Chinese HK (Advanced)    | v1.6.1     | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | [#3086](https://github.com/decred/decrediton/pull/3086) | 8d3b9b2 | smartwojak |
 | Chinese HK (Advanced)    | master     | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | [#3086](https://github.com/decred/decrediton/pull/3086) | smartwojak |
 | French (Basic)           | v1.4.0,<br>master | [2018-12-11](https://github.com/decred/decrediton/commit/d5f68b365e2353e719e89e07bc5b509e42f5116c) | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ } |
-| French (Basic)           | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3654](https://github.com/decred/decrediton/pull/3654) | **UNMERGED, needs review**, jp |
+| French (Basic)           | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3654](https://github.com/decred/decrediton/pull/3654) | **UNMERGED, needs rebase** to fix conflicts and build errors, jp |
 | French (Advanced)        | v1.4.0,<br>master | [2018-12-11](https://github.com/decred/decrediton/commit/d5f68b365e2353e719e89e07bc5b509e42f5116c) | [#1875](https://github.com/decred/decrediton/pull/1875) | { _who?_ } |
-| French (Advanced)        | master     | [2022-01-07](https://github.com/decred/decrediton/commit/2fe22577aea0c71e4183bc0322f49a8687d35da5) | [#3654](https://github.com/decred/decrediton/pull/3654) | **UNMERGED, needs review**, jp |
+| French (Advanced)        | master     | [2022-01-07](https://github.com/decred/decrediton/commit/2fe22577aea0c71e4183bc0322f49a8687d35da5) | [#3654](https://github.com/decred/decrediton/pull/3654) | **UNMERGED, needs rebase** to fix conflicts and build errors, jp |
 | German (Basic)           | v1.7.5     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | b96b7a6 | karamble |
 | German (Basic)           | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3798](https://github.com/decred/decrediton/pull/3798) | karamble |
 | German (Advanced)        | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/4fdf91a283fb108e84ab780d8764ca6f76f82eec) | [#3088](https://github.com/decred/decrediton/pull/3088) | karamble |
-| Greek (Basic)            | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3719](https://github.com/decred/decrediton/pull/3719) | **UNMERGED, needs review**, [Xk9eboF6](https://github.com/Xk9eboF6) |
-| Greek (Advanced)         | master     | [2022-03-08](https://github.com/decred/decrediton/commit/ee04c5d79dafd9323a2945d0fc8eda8b896248e9) | [#3719](https://github.com/decred/decrediton/pull/3719) | **UNMERGED, needs review**, [Xk9eboF6](https://github.com/Xk9eboF6) |
+| Greek (Basic)            | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6) |
+| Greek (Advanced)         | master     | [2022-03-08](https://github.com/decred/decrediton/commit/ee04c5d79dafd9323a2945d0fc8eda8b896248e9) | [#3719](https://github.com/decred/decrediton/pull/3719) | [Xk9eboF6](https://github.com/Xk9eboF6) |
 | Italian (Basic)          | v1.7.0-rc2 | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | 28c6f61 | teknico, karamble |
 | Italian (Basic)          | master     | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3659](https://github.com/decred/decrediton/pull/3659) | teknico, karamble |
 | Italian (Advanced)       | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | teknico, karamble |
 | Japanese (Basic)         | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _who?_ } |
 | Japanese (Advanced)      | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062)| [#3052](https://github.com/decred/decrediton/pull/3052) | { _who?_ } |
 | Polish (Basic)           | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _kozel?_ } |
+| Polish (Basic)           | master       | { EN base? } | { PR? } | **UNPUBLISHED but in progress**, kozel |
 | Polish (Advanced)        | v1.6.0,<br>master | [2020-12-14](https://github.com/decred/decrediton/commit/c4c6ee3a9a645cef64385243fc1a379b42ac8062) | [#3052](https://github.com/decred/decrediton/pull/3052) | { _kozel?_ } |
 | Portuguese BR (Basic)    | v1.7.0-rc1,<br>master | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3619](https://github.com/decred/decrediton/pull/3619) | matheusd, { _others?_ } |
 | Portuguese BR (Advanced) | v1.7.0-rc1,<br>master | [2021-12-23](https://github.com/decred/decrediton/commit/bd6cdd70a585423bdc82573b3b2a01daaafd8e72) | [#3619](https://github.com/decred/decrediton/pull/3619) | matheusd, { _others?_ } |
