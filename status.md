@@ -75,16 +75,17 @@ Historical translators:
 
 ## DCRDEX
 
-- DCRDEX translations are **funded** via the [Translations phase 3 proposal](https://proposals.decred.org/record/7057e0b) until 2022-12-31. [Contact](#contact) @kozel on Matrix for the details. { _Correct?_ }
+_Status as of: 2023-01-30_
+
+- DCRDEX translations were last funded via the [Translations phase 3 proposal](https://proposals.decred.org/record/7057e0b) until 2022-12-31. Work since 2023-01-01 has **no funding yet** but it will if the renewal [Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f) passes. [Contact](#contact) @kozel on Matrix for the details. { _Correct?_ }
 - Read the [Translating Guide](https://github.com/decred/dcrdex/blob/master/docs/wiki/Localization-and-Translation.md) and [contact](#contact) @chappjc on Matrix for more details.
 - Files to translate: [HTML strings](https://github.com/decred/dcrdex/tree/master/client/webserver/locales), [Notification strings](https://github.com/decred/dcrdex/blob/master/client/core/locale_ntfn.go), [JavaScript strings](https://github.com/decred/dcrdex/blob/master/client/webserver/site/src/js/locales.ts)
 
-_Status as of: 2022-10-14_
-
 | Language      | Release    | EN base    | Changes \[3\] | Translators and notes |
 |---------------|------------|------------|---------------|-----------------------|
-| English       | v0.5.0-rc1 | [2022-07-22](https://github.com/decred/dcrdex/commit/f541eadb4f3a1978cddb86b470c90f844114a0d7) | [#1600](https://github.com/decred/dcrdex/pull/1600) | |
-| English       | master     | [2022-10-11](https://github.com/decred/dcrdex/commit/70452f4ffc35225a78d5d84e0d3d4ca18a7dea0e) | [#1840](https://github.com/decred/dcrdex/pull/1840) | |
+| English       | v0.5.7     | [2022-11-23](https://github.com/decred/dcrdex/commit/0b10fd8415395766950a460ce61c4482ed747326) | 0b10fd8 | |
+| English       | master     | [2023-01-12](https://github.com/decred/dcrdex/commit/6bb1eb58e892d9a1522b702955e919be2eb1454f) | [#2044](https://github.com/decred/dcrdex/pull/2044) | |
+| Arabic        | master     | [2022-09-09](https://github.com/decred/dcrdex/commit/15cd637563f51abea52f5a20091d66fc4fdc2856) | [#1898](https://github.com/decred/dcrdex/pull/1898) | arij, EN base found via original [#1844](https://github.com/decred/dcrdex/pull/1844) |
 | Chinese CN    | v0.4.0-rc1 | [2021-09-24](https://github.com/decred/dcrdex/commit/d11f1ce9ea1313e17fdc588d0f3d9f0e9e153444) | [#1207](https://github.com/decred/dcrdex/pull/1207) | Dominic |
 | Chinese CN    | master     | [2022-10-12](https://github.com/decred/dcrdex/commit/ba711dcf326f063061b35d1754ecc8a12c2a7668) | [#1871](https://github.com/decred/dcrdex/pull/1871) | Dominic |
 | German        | v0.5.3     | [2022-08-19](https://github.com/decred/dcrdex/commit/0dee62f8587b714acf49c322dde781ddd3a32bee) | [#1815](https://github.com/decred/dcrdex/pull/1815) | karamble |
