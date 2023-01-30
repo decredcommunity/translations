@@ -102,19 +102,19 @@ _Status as of: 2023-01-30_
 
 ## decred.org
 
-- decred.org translations are **funded** via the [D.R.E.A.M. 2](https://proposals.decred.org/record/5ef57f7) proposal until 2022-11-30. [Contact](#contact) @jholdstock on Matrix for the details.
+_Status as of: 2023-01-30_
+
+- decred.org translations were last funded via the [D.R.E.A.M. 2](https://proposals.decred.org/record/5ef57f7) proposal until 2022-11-30. Work between 2022-12-01 and 2022-12-31 was eligible for funding via [Translations phase 3 proposal](https://proposals.decred.org/record/7057e0b). Work since 2023-01-01 has **no funding yet** but it will if the renewal [Decred Content and Asset Translations 2023](https://proposals.decred.org/record/31c4b5f) passes. [Contact](#contact) us on Matrix for more info.
 - Read the [Translating Guide](https://github.com/decred/dcrweb/tree/master/transifex_catalogs#readme).
 - Files to translate: [`transifex_catalogs`](https://github.com/decred/dcrweb/tree/master/transifex_catalogs). { _Note: This is just an old directory name, Transifex is not used anymore._ }
 
-_Status as of: 2022-10-14_
-
 | Language      | Release | EN base    | Changes \[5\] | Translators and notes |
 |---------------|---------|------------|---------------|-----------------------|
-| English       |         | [2022-10-11](https://github.com/decred/dcrweb/commit/c7f21ad70b5da52e86dd000584677d22fba0f0d6) | [#1090](https://github.com/decred/dcrweb/pull/1090) | |
+| English       |         | [2023-01-23](https://github.com/decred/dcrweb/commit/8da815ced13c33824923ae0957de08000f429157) | [#1107](https://github.com/decred/dcrweb/pull/1107) | |
 | Arabic        |         | [2022-09-08](https://github.com/decred/dcrweb/commit/9d2874ff2af30bdabaddbca4c0a82560e24ffc65) | [#1072](https://github.com/decred/dcrweb/pull/1072) | arij |
-| Chinese CN    |         | [2022-09-03](https://github.com/decred/dcrweb/commit/34c7d833ff020d3353c5917fdc199df89edaebe6) | [#1067](https://github.com/decred/dcrweb/pull/1067) | Dominic |
+| Chinese CN    |         | [2022-10-10](https://github.com/decred/dcrweb/commit/4f6d00361f7fc1b2389ac8e000f21d12fb2581d7) | [#1084](https://github.com/decred/dcrweb/pull/1084) | Dominic |
 | German        |         | [2022-09-08](https://github.com/decred/dcrweb/commit/9d2874ff2af30bdabaddbca4c0a82560e24ffc65) | [#1072](https://github.com/decred/dcrweb/pull/1072) | karamble |
-| Polish        |         | [2022-09-08](https://github.com/decred/dcrweb/commit/9d2874ff2af30bdabaddbca4c0a82560e24ffc65) | [#1072](https://github.com/decred/dcrweb/pull/1072) | kozel |
+| Polish        |         | [2022-09-08](https://github.com/decred/dcrweb/commit/4f6d00361f7fc1b2389ac8e000f21d12fb2581d7) | [#1084](https://github.com/decred/dcrweb/pull/1084) | kozel |
 | Portuguese BR |         |            |               |                       |
 | Spanish       |         |            |               |                       |
 
