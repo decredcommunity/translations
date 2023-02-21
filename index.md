@@ -1,12 +1,14 @@
 # Decred Content Translations
 
-_Updated: 2023-01-20_
+_Updated: 2023-02-21_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-01-27|[DJ December 2022](https://xaur.github.io/decred-news/journal/202212.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202212_DecredJournalCN.md)|@Dominic|
 2023-01-08|[DJ November 2022](https://xaur.github.io/decred-news/journal/202211.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202211_DecredJournalPL.md)|@kozel|
 2023-01-03|[DJ November 2022](https://xaur.github.io/decred-news/journal/202211.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202211.html)|@arij, @abdulrahman4|
 2022-12-24|[DJ November 2022](https://xaur.github.io/decred-news/journal/202211.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202211_DecredJournalCN.md)|@Dominic|
+2022-12-17|[Bison Relay: The Sovereign Internet](https://blog.decred.org/2022/12/14/Bison-Relay-The-Sovereign-Internet/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Bison%20Relay:%20The%20Sovereign%20Internet.md)|@Dominic|[ann tweet](https://twitter.com/wanbihoustatus/1604010952890134529)
 2022-12-09|[DJ October 2022](https://xaur.github.io/decred-news/journal/202210.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202210_DecredJournalCN.md)|@Dominic|
 2022-12-05|[DJ October 2022](https://xaur.github.io/decred-news/journal/202210.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202210_DecredJournalPL.md)|@kozel|
 2022-12-05|[DJ September 2022](https://xaur.github.io/decred-news/journal/202209.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202209_DecredJournalPL.md)|@kozel|
