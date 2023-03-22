@@ -1,9 +1,14 @@
 # Decred Content Translations
 
-_Updated: 2023-02-21_
+_Updated: 2023-03-22_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-03-16|[DJ January 2022](https://xaur.github.io/decred-news/journal/202301.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202301.html)|@arij, @abdulrahman4|
+2023-02-28|[DJ December 2022](https://xaur.github.io/decred-news/journal/202212.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202212.html)|@arij, @abdulrahman4|
+2023-02-26|[Peer-to-Peer Electronic Corporation](https://www.decredmagazine.com/peer-to-peer-electronic-corporation/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Peer-to-Peer%20Electronic%20Corporation.md)|@Dominic|
+2023-02-25|[DJ January 2023](https://xaur.github.io/decred-news/journal/202301.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202301_DecredJournalCN.md)|@Dominic|
+2023-02-01|[DJ December 2022](https://xaur.github.io/decred-news/journal/202212.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202212_DecredJournalPL.md)|@kozel|
 2023-01-27|[DJ December 2022](https://xaur.github.io/decred-news/journal/202212.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202212_DecredJournalCN.md)|@Dominic|
 2023-01-08|[DJ November 2022](https://xaur.github.io/decred-news/journal/202211.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202211_DecredJournalPL.md)|@kozel|
 2023-01-03|[DJ November 2022](https://xaur.github.io/decred-news/journal/202211.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202211.html)|@arij, @abdulrahman4|
