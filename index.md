@@ -1,9 +1,12 @@
 # Decred Content Translations
 
-_Updated: 2023-03-22_
+_Updated: 2023-04-21_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-04-02|[DJ February 2023](https://xaur.github.io/decred-news/journal/202302.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202302_DecredJournalPL.md)|@kozel|
+2023-03-31|[DJ February 2023](https://xaur.github.io/decred-news/journal/202302.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202302_DecredJournalCN.md)|@Dominic|
+2023-03-24|[DJ January 2023](https://xaur.github.io/decred-news/journal/202301.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202301_DecredJournalPL.md)|@kozel|
 2023-03-16|[DJ January 2022](https://xaur.github.io/decred-news/journal/202301.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202301.html)|@arij, @abdulrahman4|
 2023-02-28|[DJ December 2022](https://xaur.github.io/decred-news/journal/202212.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202212.html)|@arij, @abdulrahman4|
 2023-02-26|[Peer-to-Peer Electronic Corporation](https://www.decredmagazine.com/peer-to-peer-electronic-corporation/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Peer-to-Peer%20Electronic%20Corporation.md)|@Dominic|
