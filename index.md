@@ -1,13 +1,17 @@
 # Decred Content Translations
 
-_Updated: 2023-04-21_
+_Updated: 2023-05-19_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-04-28|[DJ March 2023](https://xaur.github.io/decred-news/journal/202303.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202303.html)|@arij, @abdulrahman4|
+2023-04-24|[DJ March 2023](https://xaur.github.io/decred-news/journal/202303.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202303_DecredJournalCN.md)|@Dominic|
+2023-04-23|[The Paradox of Choice: Deciding Between Turing Complete and Non-Turing Complete Blockchains](https://www.decredmagazine.com/the-paradox-of-choice-deciding-between-turing-complete-and-non-turing-complete-blockchains/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/The%20Paradox%20of%20Choice:%20Deciding%20Between%20Turing%20Complete%20and%20Non-Turing%20Complete%20Blockchains.md)|@Dominic|
+2023-04-23|[Why is Decred not EVM compatible?](https://www.decredmagazine.com/why-is-decred-not-evm-compatible/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Why%20is%20Decred%20not%20EVM%20compatible%3F.md)|@Dominic|
 2023-04-02|[DJ February 2023](https://xaur.github.io/decred-news/journal/202302.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202302_DecredJournalPL.md)|@kozel|
 2023-03-31|[DJ February 2023](https://xaur.github.io/decred-news/journal/202302.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202302_DecredJournalCN.md)|@Dominic|
 2023-03-24|[DJ January 2023](https://xaur.github.io/decred-news/journal/202301.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202301_DecredJournalPL.md)|@kozel|
-2023-03-16|[DJ January 2022](https://xaur.github.io/decred-news/journal/202301.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202301.html)|@arij, @abdulrahman4|
+2023-03-16|[DJ January 2023](https://xaur.github.io/decred-news/journal/202301.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202301.html)|@arij, @abdulrahman4|
 2023-02-28|[DJ December 2022](https://xaur.github.io/decred-news/journal/202212.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202212.html)|@arij, @abdulrahman4|
 2023-02-26|[Peer-to-Peer Electronic Corporation](https://www.decredmagazine.com/peer-to-peer-electronic-corporation/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Peer-to-Peer%20Electronic%20Corporation.md)|@Dominic|
 2023-02-25|[DJ January 2023](https://xaur.github.io/decred-news/journal/202301.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202301_DecredJournalCN.md)|@Dominic|
