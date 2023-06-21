@@ -1,9 +1,13 @@
 # Decred Content Translations
 
-_Updated: 2023-05-19_
+_Updated: 2023-06-21_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-06-15|[DJ March 2023](https://xaur.github.io/decred-news/journal/202303.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202303_DecredJournalPL.md)|@kozel|
+2023-06-02|[DJ April 2023](https://xaur.github.io/decred-news/journal/202304.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202304.html)|@arij, @abdulrahman4|
+2023-05-30|[Internet Privacy and Why it is Important](https://www.decredmagazine.com/internet-privacy-and-why-it-is-important/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Internet%20Privacy%20and%20Why%20it%20is%20Important.md)|@Dominic|
+2023-05-23|[DJ April 2023](https://xaur.github.io/decred-news/journal/202304.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202304_DecredJournalCN.md)|@Dominic|
 2023-04-28|[DJ March 2023](https://xaur.github.io/decred-news/journal/202303.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202303.html)|@arij, @abdulrahman4|
 2023-04-24|[DJ March 2023](https://xaur.github.io/decred-news/journal/202303.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202303_DecredJournalCN.md)|@Dominic|
 2023-04-23|[The Paradox of Choice: Deciding Between Turing Complete and Non-Turing Complete Blockchains](https://www.decredmagazine.com/the-paradox-of-choice-deciding-between-turing-complete-and-non-turing-complete-blockchains/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/The%20Paradox%20of%20Choice:%20Deciding%20Between%20Turing%20Complete%20and%20Non-Turing%20Complete%20Blockchains.md)|@Dominic|
