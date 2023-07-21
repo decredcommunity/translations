@@ -1,9 +1,11 @@
 # Decred Content Translations
 
-_Updated: 2023-06-21_
+_Updated: 2023-07-21_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-07-01|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202305.html)|@arij|
+2023-06-23|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202305_DecredJournalCN.md)|@Dominic|
 2023-06-15|[DJ March 2023](https://xaur.github.io/decred-news/journal/202303.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202303_DecredJournalPL.md)|@kozel|
 2023-06-02|[DJ April 2023](https://xaur.github.io/decred-news/journal/202304.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202304.html)|@arij, @abdulrahman4|
 2023-05-30|[Internet Privacy and Why it is Important](https://www.decredmagazine.com/internet-privacy-and-why-it-is-important/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Internet%20Privacy%20and%20Why%20it%20is%20Important.md)|@Dominic|
