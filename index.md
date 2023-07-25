@@ -1,11 +1,14 @@
 # Decred Content Translations
 
-_Updated: 2023-07-21_
+_Updated: 2023-07-25_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
 2023-07-01|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202305.html)|@arij|
+2023-06-29|[Security is the biggest concern of those who invest in cryptocurrency](https://www.cypherpunktimes.com/security-is-the-biggest-concern-of-those-who-invest-in-cryptocurrency/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Security%20is%20the%20biggest%20concern%20of%20those%20who%20invest%20in%20cryptocurrency.md)|@Dominic|
+2023-06-29|[How did we get here? A brief history of decentralization](https://www.cypherpunktimes.com/how-did-we-get-here-a-brief-history-of-decentralization/)|[Chinese](https://github.com/DominicTing/articles/blob/master/How%20did%20we%20get%20here%3F%20A%20brief%20history%20of%20decentralization.md)|@Dominic|
 2023-06-23|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202305_DecredJournalCN.md)|@Dominic|
+2023-06-23|[The Future Is Now: Jake Yocom-Piatt Of Decred.org On How Their Technological Innovation Will Shake Up The Tech Scene](https://medium.com/authority-magazine/the-future-is-now-jake-yocom-piatt-on-how-their-technological-innovation-will-shake-u-3966dc1adc22)|[Chinese](https://github.com/DominicTing/articles/blob/master/The%20Future%20Is%20Now:%20Jake%20Yocom-Piatt%20Of%20Decred.org%20On%20How%20Their%20Technological%20Innovation%20Will%20Shake%20Up%20The%20Tech%20Scene.md)|@Dominic|
 2023-06-15|[DJ March 2023](https://xaur.github.io/decred-news/journal/202303.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202303_DecredJournalPL.md)|@kozel|
 2023-06-02|[DJ April 2023](https://xaur.github.io/decred-news/journal/202304.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202304.html)|@arij, @abdulrahman4|
 2023-05-30|[Internet Privacy and Why it is Important](https://www.decredmagazine.com/internet-privacy-and-why-it-is-important/)|[Chinese](https://github.com/DominicTing/decred-ZH-translations/blob/master/Internet%20Privacy%20and%20Why%20it%20is%20Important.md)|@Dominic|
