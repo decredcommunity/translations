@@ -1,9 +1,15 @@
 # Decred Content Translations
 
-_Updated: 2023-07-25_
+_Updated: 2023-08-21_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-08-07|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202305_DecredJournalPL.md)|@kozel|
+2023-08-02|[DJ April 2023](https://xaur.github.io/decred-news/journal/202304.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202304_DecredJournalPL.md)|@kozel|
+2023-07-30|[How-To DCRDEX on Raspberry Pi with Umbrel](https://www.cypherpunktimes.com/how-to-dcrdex-on-raspberry-pi-with-umbrel/)|[Chinese](https://github.com/Decred-CN/articles/blob/master/How-To_DCRDEX_on_Raspberry_Pi_with_Umbrel.md)|@Dominic|
+2023-07-30|[Using Market Maker Bots on Decentralised Exchange: First Look](https://www.cypherpunktimes.com/using-market-maker-bots-on-decentralised-exchange-first-look/)|[Chinese](https://github.com/Decred-CN/articles/blob/master/Using%20Market%20Maker%20Bots%20on%20Decentralised%20Exchange:%20First%20Look.md)|@Dominic|
+2023-07-30|[DJ June 2023](https://xaur.github.io/decred-news/journal/202306.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202306.html)|@arij|
+2023-07-23|[DJ June 2023](https://xaur.github.io/decred-news/journal/202306.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202306_DecredJournalCN.md)|@Dominic|
 2023-07-01|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202305.html)|@arij|
 2023-06-29|[Security is the biggest concern of those who invest in cryptocurrency](https://www.cypherpunktimes.com/security-is-the-biggest-concern-of-those-who-invest-in-cryptocurrency/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Security%20is%20the%20biggest%20concern%20of%20those%20who%20invest%20in%20cryptocurrency.md)|@Dominic|
 2023-06-29|[How did we get here? A brief history of decentralization](https://www.cypherpunktimes.com/how-did-we-get-here-a-brief-history-of-decentralization/)|[Chinese](https://github.com/DominicTing/articles/blob/master/How%20did%20we%20get%20here%3F%20A%20brief%20history%20of%20decentralization.md)|@Dominic|
