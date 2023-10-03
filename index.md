@@ -1,9 +1,12 @@
 # Decred Content Translations
 
-_Updated: 2023-09-25_
+_Updated: 2023-10-03_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-09-28|[DJ August 2023](https://xaur.github.io/decred-news/journal/202308.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202308_DecredJournalCN.md)|@Dominic|
+2023-09-26|[DCP-11 Change PoW to BLAKE3 and ASERT](https://github.com/decred/dcps/blob/master/dcp-0011/dcp-0011.mediawiki)|[Chinese](https://github.com/DominicTing/articles/blob/master/dcp-0011/dcp-0011.mediawiki)|@Dominic|
+2023-09-19|[DJ June 2023](https://xaur.github.io/decred-news/journal/202306.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202306_DecredJournalPL.md)|@kozel|
 2023-08-28|[DJ July 2023](https://xaur.github.io/decred-news/journal/202307.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202307.html)|@arij, @abdulrahman4|
 2023-08-23|[DJ July 2023](https://xaur.github.io/decred-news/journal/202307.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202307_DecredJournalCN.md)|@Dominic|
 2023-08-22|[Tutorial: How to Solo Mine Decred's Upcoming Blake3 Algorithm](https://www.cypherpunktimes.com/tutorial-solo-mine-decreds-blake3/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Tutorial:%20How%20to%20Solo%20Mine%20Decred's%20Upcoming%20Blake3%20Algorithm.md)|
@@ -13,7 +16,7 @@ Translated|Original title|Language|Translator|Notes
 2023-07-30|[Using Market Maker Bots on Decentralised Exchange: First Look](https://www.cypherpunktimes.com/using-market-maker-bots-on-decentralised-exchange-first-look/)|[Chinese](https://github.com/Decred-CN/articles/blob/master/Using%20Market%20Maker%20Bots%20on%20Decentralised%20Exchange:%20First%20Look.md)|@Dominic|
 2023-07-30|[DJ June 2023](https://xaur.github.io/decred-news/journal/202306.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202306.html)|@arij, @abdulrahman4|
 2023-07-23|[DJ June 2023](https://xaur.github.io/decred-news/journal/202306.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202306_DecredJournalCN.md)|@Dominic|
-2023-07-01|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202305.html)|@arij|
+2023-07-01|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202305.html)|@arij, @abdulrahman4|
 2023-06-29|[Security is the biggest concern of those who invest in cryptocurrency](https://www.cypherpunktimes.com/security-is-the-biggest-concern-of-those-who-invest-in-cryptocurrency/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Security%20is%20the%20biggest%20concern%20of%20those%20who%20invest%20in%20cryptocurrency.md)|@Dominic|
 2023-06-29|[How did we get here? A brief history of decentralization](https://www.cypherpunktimes.com/how-did-we-get-here-a-brief-history-of-decentralization/)|[Chinese](https://github.com/DominicTing/articles/blob/master/How%20did%20we%20get%20here%3F%20A%20brief%20history%20of%20decentralization.md)|@Dominic|
 2023-06-23|[DJ May 2023](https://xaur.github.io/decred-news/journal/202305.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202305_DecredJournalCN.md)|@Dominic|
@@ -270,6 +273,7 @@ Translated|Original title|Language|Translator|Notes
 2019-10-17|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/201909_DecredJournalCN.md)|@Dominic|
 2019-10-16|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201909.html)|@arij, @abdulrahman4|
 2019-10-12|[DJ September 2019](https://xaur.github.io/decred-news/journal/201909.html)|[Spanish](https://medium.com/decred-es/revista-decred-septiembre-2019-6b9f8afd4c67)|@francov_, @luisantoniocrag|
+2019-10-12|[The Decred Experiment: Can Decentralization Help Mexico?](https://medium.com/@evok3d/the-decred-experiment-can-decentralization-help-mexico-1e0e8156430c)|[Chinese](https://www.odaily.news/post/5141521)|Moni|published on odaily.news|
 2019-09-21|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/201908.html)|@arij, @abdulrahman4|
 2019-09-20|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Spanish](https://medium.com/decred-es/revista-decred-agosto-2019-d83f28f3f44e)|@francov_, @luisantoniocrag|
 2019-09-16|[DJ August 2019](https://xaur.github.io/decred-news/journal/201908.html)|[Russian](https://medium.com/decred-russia/decred-journal-august-2019-7c1822319cc6)|@DZ|
