@@ -1,9 +1,13 @@
 # Decred Content Translations
 
-_Updated: 2023-10-03_
+_Updated: 2023-10-30_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-10-28|[DJ July 2023](https://xaur.github.io/decred-news/journal/202307.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202307_DecredJournalPL.md)|@kozel|
+2023-10-17|[SocialFi and Security](https://www.cypherpunktimes.com/socialfi-and-security/)|[Chinese](https://github.com/DominicTing/articles/blob/master/SocialFi%20and%20Security.md)|@Dominic|
+2023-10-14|[The Psychology of Crypto Investing: Understanding Market Sentiment](https://www.cypherpunktimes.com/the-psychology-of-crypto-investing-understanding-market-sentiment/)|[Chinese](https://github.com/DominicTing/articles/blob/master/RESEARCH%20%26%20ANALYTICS%20The%20Psychology%20of%20Crypto%20Investing:%20Understanding%20Market%20Sentiment.md)|@Dominic|
+2023-10-06|[DJ August 2023](https://xaur.github.io/decred-news/journal/202308.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202308.html)|@arij|
 2023-09-28|[DJ August 2023](https://xaur.github.io/decred-news/journal/202308.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202308_DecredJournalCN.md)|@Dominic|
 2023-09-26|[DCP-11 Change PoW to BLAKE3 and ASERT](https://github.com/decred/dcps/blob/master/dcp-0011/dcp-0011.mediawiki)|[Chinese](https://github.com/DominicTing/articles/blob/master/dcp-0011/dcp-0011.mediawiki)|@Dominic|
 2023-09-19|[DJ June 2023](https://xaur.github.io/decred-news/journal/202306.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202306_DecredJournalPL.md)|@kozel|
