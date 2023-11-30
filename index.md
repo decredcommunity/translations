@@ -1,9 +1,13 @@
 # Decred Content Translations
 
-_Updated: 2023-10-30_
+_Updated: 2023-11-30_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-11-07|[DJ September 2023](https://xaur.github.io/decred-news/journal/202309.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202309_DecredJournalPL.md)|@kozel|
+2023-11-03|[DJ September 2023](https://xaur.github.io/decred-news/journal/202309.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202309_DecredJournalCN.md)|@Dominic|
+2023-11-03|[DJ September 2023](https://xaur.github.io/decred-news/journal/202309.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202309.html)|@arij|
+2023-10-31|[DJ August 2023](https://xaur.github.io/decred-news/journal/202308.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202308_DecredJournalPL.md)|@kozel|
 2023-10-28|[DJ July 2023](https://xaur.github.io/decred-news/journal/202307.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202307_DecredJournalPL.md)|@kozel|
 2023-10-17|[SocialFi and Security](https://www.cypherpunktimes.com/socialfi-and-security/)|[Chinese](https://github.com/DominicTing/articles/blob/master/SocialFi%20and%20Security.md)|@Dominic|
 2023-10-14|[The Psychology of Crypto Investing: Understanding Market Sentiment](https://www.cypherpunktimes.com/the-psychology-of-crypto-investing-understanding-market-sentiment/)|[Chinese](https://github.com/DominicTing/articles/blob/master/RESEARCH%20%26%20ANALYTICS%20The%20Psychology%20of%20Crypto%20Investing:%20Understanding%20Market%20Sentiment.md)|@Dominic|
