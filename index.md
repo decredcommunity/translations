@@ -1,9 +1,12 @@
 # Decred Content Translations
 
-_Updated: 2023-11-30_
+_Updated: 2024-01-10_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2023-12-26|[DJ October 2023](https://xaur.github.io/decred-news/journal/202310.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202310_DecredJournalPL.md)|@kozel|
+2023-12-05|[DJ October 2023](https://xaur.github.io/decred-news/journal/202310.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202310_DecredJournalCN.md)|@Dominic|
+2023-12-02|[DJ October 2023](https://xaur.github.io/decred-news/journal/202310.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202310.html)|@arij|
 2023-11-07|[DJ September 2023](https://xaur.github.io/decred-news/journal/202309.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202309_DecredJournalPL.md)|@kozel|
 2023-11-03|[DJ September 2023](https://xaur.github.io/decred-news/journal/202309.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202309_DecredJournalCN.md)|@Dominic|
 2023-11-03|[DJ September 2023](https://xaur.github.io/decred-news/journal/202309.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202309.html)|@arij|
