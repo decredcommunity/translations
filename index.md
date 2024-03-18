@@ -1,9 +1,16 @@
 # Decred Content Translations
 
-_Updated: 2024-01-10_
+_Updated: 2024-03-18_
 
 Translated|Original title|Language|Translator|Notes
 ---|---|---|---|---
+2024-03-09|[Decoding the Drama of the Second Crypto War](https://www.cypherpunktimes.com/decoding-the-drama-of-the-second-crypto-war/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Decoding%20the%20Drama%20of%20the%20Second%20Crypto%20War.md)|@Dominic|
+2024-03-08|[Decoding the Drama of the First Crypto War](https://www.cypherpunktimes.com/decoding-the-drama-of-the-first-crypto-war/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Decoding%20the%20Drama%20of%20the%20First%20Crypto%20War.md)|@Dominic|
+2024-02-21|[Cypherpunk Culture: Unravelling the Origins (2/2)](https://www.cypherpunktimes.com/cypherpunk-culture-unraveling-the-origins-2-2/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Cypherpunk%20Culture%3A%20Unravelling%20the%20Origins%202.md)|@Dominic|
+2024-02-19|[Cypherpunk Culture: Unravelling the Origins (1/2)](https://www.cypherpunktimes.com/cypherpunk-culture-unraveling-the-origins/)|[Chinese](https://github.com/DominicTing/articles/blob/master/Cypherpunk%20Culture%3A%20Unravelling%20the%20Origins%201.md)|@Dominic|
+2024-01-31|[DJ November 2023](https://xaur.github.io/decred-news/journal/202311.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202311_DecredJournalPL.md)|@kozel|
+2024-01-17|[DJ November 2023](https://xaur.github.io/decred-news/journal/202311.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202311_DecredJournalCN.md)|@Dominic|
+2024-01-16|[DJ November 2023](https://xaur.github.io/decred-news/journal/202311.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202311.html)|@arij|
 2023-12-26|[DJ October 2023](https://xaur.github.io/decred-news/journal/202310.html)|[Polish](https://github.com/artikozel/DecredJournalPL/blob/master/journal/202310_DecredJournalPL.md)|@kozel|
 2023-12-05|[DJ October 2023](https://xaur.github.io/decred-news/journal/202310.html)|[Chinese](https://github.com/DominicTing/DecredCNJournal/blob/master/202310_DecredJournalCN.md)|@Dominic|
 2023-12-02|[DJ October 2023](https://xaur.github.io/decred-news/journal/202310.html)|[Arabic](https://insaf01.github.io/decred-journal-ar/journal/202310.html)|@arij|
